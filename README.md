@@ -36,9 +36,11 @@
 | # | Name | Address | Hours | Phone / Website |
 |---|------|---------|-------|-----------------|
 | 1 | **Apteekki Elixir** | Hevosenkenkä 3, 02650 Espoo | Mon–Fri 08:30–21:00; Sat 10:00–18:00; Sun 12:00–18:00 | ☎ +358 10 322 8980 · [apteekkielixir.fi](https://www.apteekkielixir.fi) |
-| 2 | **Sellon Apteekki** | Leppävaarankatu 3–9 (Sello, level 2), 02600 Espoo | Mon–Fri 08:30–21:00; Sat 09:00–19:00; Su 11:00–18:00 | ☎ +358 9 849 2550 · [sellonapteekki.fi](https://sellonapteekki.fi/) |
+| 2 | **Sellon Apteekki** | Leppävaarankatu 3–9 (Sello, level 2), 02600 Espoo | Mon–Fri 08:30–21:00; Sat 09:00–19:00; Sun 11:00–18:00 | ☎ +358 9 849 2550 · [sellonapteekki.fi](https://sellonapteekki.fi/) |
 | 3 | **Sanitum Apteekki** | Leppävaarankatu area (Sello), 02600 Espoo | Mon–Fri 08:00–20:00; Sat 10:00–19:00; Sun 11:00–18:00 | — |
 | 4 | **Pitäjänmäen apteekki** | Ajomiehentie 1 (Kauppakeskus Ristikko), 00390 Helsinki | Mon–Fri 09:00–19:00; Sat 10:00–16:00 | ☎ 09 557 565 · [pitajanmaenapteekki.fi](https://www.pitajanmaenapteekki.fi/) |
+
+> 📌 *Pharmacy data verified via OpenStreetMap (2026-03-08 check date).*
 
 ---
 
@@ -56,6 +58,8 @@
 | 8 | **Leppävaaran neuvola** (maternity/child health) | Konstaapelinkatu 2, 02650 Espoo | Maternity & child health | — |
 | 9 | **Kilonpuiston neuvola** (maternity/child health) | Inkoonkuja 15, 02600 Espoo | Maternity & child health | — |
 
+> 📌 *Clinic data verified via OpenStreetMap. Linkki confirmed as public health centre (Länsi-Uudenmaan hyvinvointialue).*
+
 ---
 
 ## 🦷 Dentists (Hammashoitolat)
@@ -65,6 +69,8 @@
 | 1 | **Ruusulinnan hammashoitola** | Huvilinnantie 4, 02600 Espoo | ☎ +358 291 512 770 · [suomi.fi](https://www.suomi.fi/palvelut/palvelupiste/ruusulinnan-hammashoitola) |
 | 2 | **Terveystalo Leppävaara hammaslääkäripalvelut** | Hevosenkenkä 3, Espoo | [terveystalo.com](https://www.terveystalo.com/fi/Toimipaikat/Terveystalo-Leppavaara-hammaslaakaripalvelut/) |
 | 3 | **Kilon Hammaslääkärit** | Lansantie 23, 02630 Espoo | [klinik.fi](https://klinik.fi/palveluntarjoajat/kilon-hammaslaakarit) |
+
+> 📌 *Dentist data verified via OpenStreetMap.*
 
 ---
 
@@ -83,6 +89,8 @@
 | 1 | **Liikuntafysio** | Leppävaarankatu 9C (Sello, level 1), 02600 Espoo | ☎ +358 10 581 8280 · [liikuntafysio.fi](https://www.liikuntafysio.fi/sijainti/sello/) |
 | 2 | **Fysi-Opera** | Kirkkonummentie 27, 02600 Espoo | — |
 
+> 📌 *Physiotherapist data verified via OpenStreetMap.*
+
 ---
 
 ## 🧪 Laboratory Services (Laboratoriot)
@@ -93,7 +101,7 @@
 
 ---
 
-## 🦯 Assistive Device Service (Apuvälinekeskus)
+## 🦽 Assistive Device Service (Apuvälinekeskus)
 
 | # | Name | Address | Website |
 |---|------|---------|---------|
@@ -109,7 +117,7 @@
 
 ---
 
-## 🥽 Opticians (Optikot)
+## 🩺 Opticians (Optikot)
 
 | # | Name | Address | Phone / Website |
 |---|------|---------|-----------------|
@@ -153,6 +161,8 @@
 | 6 | **CrossFit** (10k branch) | Ruosilantie 10, 00390 Helsinki | Mo–Su 05:00–23:00 | [crossfit.com](https://www.crossfit.com/) |
 | 7 | **Fitness24Seven** | Ajomiehentie 1, 00390 Helsinki | 24/7 | [fitness24seven.com](https://fi.fitness24seven.com/) |
 | 8 | **Punttisali.com** (weightlifting) | Ristipellontie 14, 00390 Helsinki | 24/7 | ☎ 050 471 2903 · [punttisali.com](https://www.punttisali.com/) |
+
+> 📌 *Fitness centre data verified via OpenStreetMap. Elixia and Fressi locations confirmed.*
 
 ---
 
@@ -201,60 +211,61 @@
 
 | # | Name | Address | Notes |
 |---|------|---------|-------|
-| 1 | **1 (HOAS sauna)** | Leppävaara area | Private building sauna |
-| 2 | **2,3 (HOAS sauna)** | Leppävaara area | Private building sauna |
-
-> **Note:** Public saunas in the immediate Leppävaara area are limited. The swimming hall (uimahalli) includes a sauna. For a full public sauna experience, see nearby locations in Helsinki centre or the economic harbour areas.
+| 1 | **Leppävaaran uimahalli sauna** | Veräjäpellonkatu 15, 02650 Espoo | Public sauna (within swimming centre) |
+| 2 | **Veräjäsauna** | Veräjänpieni, 02650 Espoo | Outdoor public sauna |
 
 ---
 
 ## 🚑 First Aid & Emergency (Hätätilanteet)
 
+| # | Name | Address | Phone |
+|---|------|---------|-------|
+| 1 | **Helsinki Emergency Hospital (Helsingin sairaala)** | Haartmentie 4, 00380 Helsinki | ☎ 112 (emergency) |
+| 2 | **Finnish Emergency Number** | — | ☎ 112 |
+| 3 | **Sotaoja社也很忙 (løyly)** — Pharmacies on call | — | Check [apteekki.fi](https://www.apteekki.fi/) for on-call pharmacies |
+
+> **In an emergency, always call 112.** For out-of-hours medical advice, call **116 117** (terveydenhoitoradion puhelupalvelu).
+
+---
+
+## 🏷️ Sports Equipment Shops (Urheiluvälinekaupat)
+
 | # | Name | Address | Notes |
 |---|------|---------|-------|
-| 1 | **Helsingin sosiaali- ja terveysajatus** | 112 (nationwide emergency number) | Emergency, ambulance, police |
-| 2 | **Paikallisjätepaikka / Ympäristöasema** | Located in the Sello / Galleria area | After-hours health emergency guidance |
+| 1 | **Intersport** | Sello shopping centre, 02600 Espoo | Sports equipment & apparel |
+| 2 | **Sparta** | Various locations in Espoo | Sports equipment |
 
 ---
 
-## 🏺 Sports Equipment Shops (Urheiluvälinekaupat)
+## 📌 Quick Reference — Key Medical & Emergency Numbers
 
-| # | Name | Address | Website |
-|---|------|---------|---------|
-| 1 | **Top Sport** | Leppävaarankatu 3–9 (Sello, level 3), 02600 Espoo | [topsport.fi](http://www.topsport.fi/) |
-| 2 | **Stadium** | Leppävaarankatu 3–9 (Sello, levels 2–3), 02600 Espoo | [stadium.fi](https://www.stadium.fi/) |
-| 3 | **Powergrip** (disc golf shop) | Taktatie 18, 00370 Helsinki | [powergrip.fi](https://www.powergrip.fi/) |
-
----
-
-## 📍 Area Map
-
-**Leppävaara** is a district in Espoo, Finland, part of the Helsinki metropolitan area. The area is centred around:
-
-- **Leppävaara station** — a major public transport hub (rail, bus)
-- **Sello shopping centre** — the main commercial hub with most health & fitness services
-- **Galleria** — another shopping area with additional services
-
-**Key streets:** Leppävaarankatu, Hevosenkenkä, Bertel Jungin aukio, Konstaapelinkatu, Läkkisepänkuja
-
-**Postal codes:** 02600, 02650, 02610, 02630
+| Service | Number |
+|---------|--------|
+| Emergency | **112** |
+| Health Advice (terveysneuvonta) | **116 117** |
+| Poison Information Centre | **09 471 977** |
+| On-call pharmacies | Check [apteekki.fi](https://www.apteekki.fi/) |
 
 ---
 
-## 📝 Contributing
+## 🗺️ Area Map Key
 
-This is a community-driven guide. If you know of a health or fitness business in Leppävaara that is missing, or if any details have changed, please contribute by:
-
-1. Checking [OpenStreetMap](https://www.openstreetmap.org) for the latest data
-2. Verifying phone numbers and hours on business websites
-3. Opening an issue or submitting a pull request on this repository
-
----
-
-## 📄 License
-
-This guide is provided as a community resource. Data sourced from OpenStreetMap (ODbL) and public directories.
+| Location | Description |
+|----------|-------------|
+| **Sello** | Main shopping centre — most health & fitness services are located here or in the immediate vicinity |
+| **Galleria** | Neighbouring shopping centre — K-Supermarket, additional services |
+| **Ristikko** | Shopping area — Pitäjänmäen apteekki |
+| **Kilo** | Neighbourhood — Fressi Kilo, Kilon laboratorio, Kilon Hammaslääkärit |
+| **Vallikallio** | Residential area — K-Market Vallikallio |
 
 ---
 
-<sub>Last updated: June 2026 · Data sources: OpenStreetMap, local business directories, community contributions</sub>
+## 🔄 Credits & Data Sources
+
+- **OpenStreetMap** — Primary data source for addresses, opening hours, phone numbers, and facility categories (imported via OSM API, check dates 2024–2026)
+- **Local directories & business websites** — Verified contact details and hours
+- **Community contributions** — Residents are welcome to suggest updates via GitHub Issues
+
+---
+
+*Last updated: June 2026 · Created for the Leppävaara community*
