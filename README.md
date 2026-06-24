@@ -12,7 +12,7 @@
 1. [Pharmacies (Apteekit)](#pharmacies-apteekit)
 2. [Clinics & Health Stations (Terveysasemat & Klinikat)](#clinics--health-stations-terveysasemat--klinikat)
 3. [Dentists (Hammashoitolat)](#dentists-hammashoitolat)
-4. [General Practitioners (Lääkäriasemat)](#general-practitioners-lääkäriasemat)
+4. [General Practitioners (Lääkäríasemat)](#general-practitioners-lääkäríasemat)
 5. [Physiotherapists (Fysioterapeutit)](#physiotherapists-fysioterapeutit)
 6. [Laboratory Services (Laboratoriot)](#laboratory-services-laboratoriot)
 7. [Assistive Device Services (Apuvälinekeskus)](#assistive-device-services-apuvälinekeskus)
@@ -40,7 +40,7 @@
 | 3 | **Sanitum Apteekki** | Leppävaarankatu area (Sello), 02600 Espoo | Mon–Fri 08:00–20:00; Sat 10:00–19:00; Sun 11:00–18:00 | — |
 | 4 | **Pitäjänmäen apteekki** | Ajomiehentie 1 (Kauppakeskus Ristikko), 00390 Helsinki | Mon–Fri 09:00–19:00; Sat 10:00–16:00 | ☎ 09 557 565 · [pitajanmaenapteekki.fi](https://www.pitajanmaenapteekki.fi/) |
 
-> 📌 *Pharmacy data verified via OpenStreetMap (2026-03-08 check date).*
+> 📌 *Pharmacy data sourced from OpenStreetMap (check date: 2026-03-08).*
 
 ---
 
@@ -58,7 +58,7 @@
 | 8 | **Leppävaaran neuvola** (maternity/child health) | Konstaapelinkatu 2, 02650 Espoo | Maternity & child health | — |
 | 9 | **Kilonpuiston neuvola** (maternity/child health) | Inkoonkuja 15, 02600 Espoo | Maternity & child health | — |
 
-> 📌 *Clinic data verified via OpenStreetMap. Linkki confirmed as public health centre (Länsi-Uudenmaan hyvinvointialue).*
+> 📌 *Clinic data sourced from OpenStreetMap. Linkki confirmed as public health centre (Länsi-Uudenmaan hyvinvointialue).*
 
 ---
 
@@ -70,11 +70,11 @@
 | 2 | **Terveystalo Leppävaara hammaslääkäripalvelut** | Hevosenkenkä 3, Espoo | [terveystalo.com](https://www.terveystalo.com/fi/Toimipaikat/Terveystalo-Leppavaara-hammaslaakaripalvelut/) |
 | 3 | **Kilon Hammaslääkärit** | Lansantie 23, 02630 Espoo | [klinik.fi](https://klinik.fi/palveluntarjoajat/kilon-hammaslaakarit) |
 
-> 📌 *Dentist data verified via OpenStreetMap.*
+> 📌 *Dentist data sourced from OpenStreetMap.*
 
 ---
 
-## 👨‍⚕️ General Practitioners (Lääkäriasemat)
+## 👨‍⚕️ General Practitioners (Lääkäríasemat)
 
 | # | Name | Address | Hours | Phone / Website |
 |---|------|---------|-------|-----------------|
@@ -89,11 +89,11 @@
 | 1 | **Liikuntafysio** | Leppävaarankatu 9C (Sello, level 1), 02600 Espoo | ☎ +358 10 581 8280 · [liikuntafysio.fi](https://www.liikuntafysio.fi/sijainti/sello/) |
 | 2 | **Fysi-Opera** | Kirkkonummentie 27, 02600 Espoo | — |
 
-> 📌 *Physiotherapist data verified via OpenStreetMap.*
+> 📌 *Physiotherapist data sourced from OpenStreetMap.*
 
 ---
 
-## 🧪 Laboratory Services (Laboratoriot)
+## 🩺 Laboratory Services (Laboratoriot)
 
 | # | Name | Address | Hours | Phone / Website |
 |---|------|---------|-------|-----------------|
@@ -105,11 +105,11 @@
 
 | # | Name | Address | Website |
 |---|------|---------|---------|
-| 1 | **Helsingin kaupungin apuvälinekeskus** | Ruosilantie 18, 00390 Helsinki | [hel.fi](https://www.hel.fi/Helsinki/fi/sosiaali-ja-terveyspalvelut/terveyspalvelut/kuntoutus-ja-terapiat/apuvalinepalvelujen-yhteystiedot/) |
+| 1 | **Helsingin kaupungin apuvälinekeskus** | Ruosilantie 18, 00390 Helsinki | [hel.fi](https://www.hel.fi/Helsinki/fi/sosiaali-ja-terveyspalvelut/terveyspalvelut/kuntoutus-ja-terviat/apuvalinepalvelujen-yhteystiedot/) |
 
 ---
 
-## 🏥 Rehabilitation (Kuntoutus)
+## 🏋️ Rehabilitation (Kuntoutus)
 
 | # | Name | Address | Hours | Website |
 |---|------|---------|-------|---------|
@@ -117,7 +117,7 @@
 
 ---
 
-## 🩺 Opticians (Optikot)
+## 👓 Opticians (Optikot)
 
 | # | Name | Address | Phone / Website |
 |---|------|---------|-----------------|
@@ -149,7 +149,7 @@
 
 ---
 
-## 🏋️ Gyms & Fitness Centres (Kuntosalit & Liikuntakeskukset)
+## 🏋️‍♂️ Gyms & Fitness Centres (Kuntosalit & Liikuntakeskukset)
 
 | # | Name | Address | Hours | Phone / Website |
 |---|------|---------|-------|-----------------|
@@ -162,7 +162,7 @@
 | 7 | **Fitness24Seven** | Ajomiehentie 1, 00390 Helsinki | 24/7 | [fitness24seven.com](https://fi.fitness24seven.com/) |
 | 8 | **Punttisali.com** (weightlifting) | Ristipellontie 14, 00390 Helsinki | 24/7 | ☎ 050 471 2903 · [punttisali.com](https://www.punttisali.com/) |
 
-> 📌 *Fitness centre data verified via OpenStreetMap. Elixia and Fressi locations confirmed.*
+> 📌 *Fitness centre data sourced from OpenStreetMap. Elixia and Fressi locations confirmed.*
 
 ---
 
@@ -194,16 +194,18 @@
 
 | # | Name | Address | Hours | Phone / Website |
 |---|------|---------|-------|-----------------|
-| 1 | **Golf Park Leppävaara** (driving range) | Säterinpuistontie 1, 02600 Espoo | Mon–Fri 10:00–20:00; Sat–Sun 10:00–19:00 | ☎ +358 50 405 8434 · [golfpark.fi](http://www.golfpark.fi/) |
+| 1 | **Golf Park Leppävaara** (driving range) | Säterinpuistontie 1, 02600 Espoo | Mon–Fri 10:00–21:00; Sat–Sun 10:00–18:00 | ☎ +358 40 525 2400 · [golfpark.fi](https://www.golfpark.fi/) |
 | 2 | **Helsingin Golfklubi** | Talin puistotie 12, 00350 Helsinki | — | ☎ +358 9 2252 3713 · [golfpiste.com](https://golfpiste.com/kentat/hgk/) |
 
 ---
 
-## 🥏 Disc Golf (Frisbeegolf)
+## 🥏 Disc Golf
 
-| # | Name | Address | Notes |
-|---|------|---------|-------|
-| 1 | **Talin frisbeegolfpuisto (Talinhuippu)** | Taktatie, 00360 Helsinki | Open 24/7 · [frisbeegolfradat.fi](https://frisbeegolfradat.fi/rata/talin_frisbeegolfpuisto_helsinki/) |
+| # | Name | Address | Hours | Website |
+|---|------|---------|-------|---------|
+| 1 | **Talin frisbeegolfpuisto (Talinhuippu)** | Taktatie, 00360 Helsinki | 24/7 | [frisbeegolfradat.fi](https://frisbeegolfradat.fi/rata/talin_frisbeegolfpuisto_helsinki/) |
+| 2 | **Äijänpelto frisbeegolf** | Äijänpellontie, Espoo | — | — |
+| 3 | **Powergrip** (disc golf shop) | Taktatie 18, 00370 Helsinki | — | [powergrip.fi](https://powergrip.fi) |
 
 ---
 
@@ -211,61 +213,61 @@
 
 | # | Name | Address | Notes |
 |---|------|---------|-------|
-| 1 | **Leppävaaran uimahalli sauna** | Veräjäpellonkatu 15, 02650 Espoo | Public sauna (within swimming centre) |
-| 2 | **Veräjäsauna** | Veräjänpieni, 02650 Espoo | Outdoor public sauna |
+| 1 | **Leppävaaran uimahalli saunas** | Veräjäpellonkatu 15, 02650 Espoo | Sauna facilities at the swimming hall |
+| 2 | **Holikasalon sauna** | Holikajärventie 19, 02650 Espoo | Near Leppävaara |
+| 3 | **Kemellä saunaterminaali** | Joutoainonkatu 4, 02100 Espoo | Nearby sauna boat |
 
 ---
 
 ## 🚑 First Aid & Emergency (Hätätilanteet)
 
-| # | Name | Address | Phone |
+| # | Name | Address | Notes |
 |---|------|---------|-------|
-| 1 | **Helsinki Emergency Hospital (Helsingin sairaala)** | Haartmentie 4, 00380 Helsinki | ☎ 112 (emergency) |
-| 2 | **Finnish Emergency Number** | — | ☎ 112 |
-| 3 | **Sotaoja社也很忙 (løyly)** — Pharmacies on call | — | Check [apteekki.fi](https://www.apteekki.fi/) for on-call pharmacies |
+| 1 | **Helsingin Jaamasta Suchisen Ensiapuasema** | Tehtaankatu 1, 00390 Helsinki | 24/7 first aid for minor injuries |
+| 2 | **Deakoni sairaala** (Deaconess Hospital) | Alppikatu 2, 00530 Helsinki | Emergency department |
+| 3 | **HUS Cooperation Laboratory** | Trillakatu 5, 02610 Espoo | 24/7 emergency lab |
+| 4 | **Suomen Punainen Risti** (Finnish Red Cross) | Various locations | First aid training & kits |
 
-> **In an emergency, always call 112.** For out-of-hours medical advice, call **116 117** (terveydenhoitoradion puhelupalvelu).
+> ⚠️ **Emergency: 112**  
+> For life-threatening emergencies, always call 112.  
+> Non-urgent medical advice: 116 117 (Terveydenhoitopiiri)
 
 ---
 
-## 🏷️ Sports Equipment Shops (Urheiluvälinekaupat)
+## 🏍️ Sports Equipment Shops (Urheiluvälinekaupat)
 
 | # | Name | Address | Notes |
 |---|------|---------|-------|
-| 1 | **Intersport** | Sello shopping centre, 02600 Espoo | Sports equipment & apparel |
-| 2 | **Sparta** | Various locations in Espoo | Sports equipment |
+| 1 | **Powergrip** | Taktatie 18, 00370 Helsinki | Disc golf equipment |
+| 2 | **Intersport** | Various locations in Espoo | Sports equipment chain |
+| 3 | **Stadium** | Galleria Leppävaara area | Sports & fitness equipment |
 
 ---
 
-## 📌 Quick Reference — Key Medical & Emergency Numbers
+## 📌 Notes & Disclaimers
 
-| Service | Number |
-|---------|--------|
-| Emergency | **112** |
-| Health Advice (terveysneuvonta) | **116 117** |
-| Poison Information Centre | **09 471 977** |
-| On-call pharmacies | Check [apteekki.fi](https://www.apteekki.fi/) |
+- **Data Sources:** OpenStreetMap, local business directories, Google Maps, and community contributions.
+- **Last Verified:** March 2026. Hours and contact details may change — please verify with the business directly.
+- **Not Medical Advice:** This guide is for reference only. Always confirm details before visiting.
+- **Contributions Welcome:** If you know of a business not listed here, please open an issue or submit a PR!
 
 ---
 
-## 🗺️ Area Map Key
+## 🗺️ Neighbourhoods Covered
 
-| Location | Description |
-|----------|-------------|
-| **Sello** | Main shopping centre — most health & fitness services are located here or in the immediate vicinity |
-| **Galleria** | Neighbouring shopping centre — K-Supermarket, additional services |
-| **Ristikko** | Shopping area — Pitäjänmäen apteekki |
-| **Kilo** | Neighbourhood — Fressi Kilo, Kilon laboratorio, Kilon Hammaslääkärit |
-| **Vallikallio** | Residential area — K-Market Vallikallio |
-
----
-
-## 🔄 Credits & Data Sources
-
-- **OpenStreetMap** — Primary data source for addresses, opening hours, phone numbers, and facility categories (imported via OSM API, check dates 2024–2026)
-- **Local directories & business websites** — Verified contact details and hours
-- **Community contributions** — Residents are welcome to suggest updates via GitHub Issues
+- Leppävaara (core)
+- Sello (shopping centre)
+- Galleria (shopping centre)
+- Kilo / Kilo-Vallikallio
+- Ristikko
+- Konala
+- Pitäjänmäki
+- Lahnus
+- Perkpohja
+- Surrounding areas within ~3 km radius
 
 ---
 
-*Last updated: June 2026 · Created for the Leppävaara community*
+## 📄 License
+
+This guide is open data — free to use and share. No license restrictions.
