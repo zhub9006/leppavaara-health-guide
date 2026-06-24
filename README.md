@@ -1,4 +1,4 @@
-# 🏥 Leppävaara Health & Fitness Guide
+# 🏠 Leppävaara Health & Fitness Guide
 
 > A comprehensive community resource guide for Leppävaara (Espoo, Finland) residents, listing health-related businesses, clinics, pharmacies, health food stores, and fitness facilities in the area.
 
@@ -18,7 +18,7 @@
 7. [Assistive Device Services (Apuvälinekeskus)](#assistive-device-services-apuvälinekeskus)
 8. [Rehabilitation (Kuntoutus)](#rehabilitation-kuntoutus)
 9. [Opticians (Optikot)](#opticians-optikot)
-10. [Massage & Osteopathy (Hieronta & Osteopatia)](#massage--osteopathy-hieronta--osteopatia)
+10. [Massage & Osteopathy (Hieronta & Osteopatia)](#massage--osteopatia)
 11. [Health Food Stores (Terveystuotekaupat)](#health-food-stores-terveystuotekaupat)
 12. [Gyms & Fitness Centres (Kuntosalit & Liikuntakeskukset)](#gyms--fitness-centres-kuntosalit--liikuntakeskukset)
 13. [Swimming Pool (Uimahalli)](#swimming-pool-uimahalli)
@@ -27,7 +27,7 @@
 16. [Disc Golf (Frisbeegolf)](#disc-golf)
 17. [Saunas (Saunat)](#saunas-saunat)
 18. [First Aid & Emergency (Hätätilanteet)](#first-aid--emergency)
-19. [Sports Equipment Shops (Urheiluvälinekaupat)](#sports-equipment-shops-urheiluvälinekaupat)
+19. [Sports Equipment Shops (Urheiluvälinekaupat)](#sports-equipment-shops)
 
 ---
 
@@ -93,7 +93,7 @@
 
 ---
 
-## 🩺 Laboratory Services (Laboratoriot)
+## 🧪 Laboratory Services (Laboratoriot)
 
 | # | Name | Address | Hours | Phone / Website |
 |---|------|---------|-------|-----------------|
@@ -117,7 +117,7 @@
 
 ---
 
-## 👓 Opticians (Optikot)
+## 💊 Opticians (Optikot)
 
 | # | Name | Address | Phone / Website |
 |---|------|---------|-----------------|
@@ -194,80 +194,115 @@
 
 | # | Name | Address | Hours | Phone / Website |
 |---|------|---------|-------|-----------------|
-| 1 | **Golf Park Leppävaara** (driving range) | Säterinpuistontie 1, 02600 Espoo | Mon–Fri 10:00–21:00; Sat–Sun 10:00–18:00 | ☎ +358 40 525 2400 · [golfpark.fi](https://www.golfpark.fi/) |
-| 2 | **Helsingin Golfklubi** | Talin puistotie 12, 00350 Helsinki | — | ☎ +358 9 2252 3713 · [golfpiste.com](https://golfpiste.com/kentat/hgk/) |
+| 1 | **Golf Park Leppävaara** (driving range) | Säterinpuistontie 1, 02600 Espoo | Mon–Thu 10:00–22:00; Fri 10:00–23:00; Sat–Sun 09:00–23:00 | ☎ +358 40 525 1414 · [golfpark.fi](https://golfpark.fi/) |
+| 2 | **Leppävaaran golfalue** (golf course) | Golfkenttätie 3, 02650 Espoo | Dawn to dusk | — |
 
 ---
 
 ## 🥏 Disc Golf
 
-| # | Name | Address | Hours | Website |
-|---|------|---------|-------|---------|
-| 1 | **Talin frisbeegolfpuisto (Talinhuippu)** | Taktatie, 00360 Helsinki | 24/7 | [frisbeegolfradat.fi](https://frisbeegolfradat.fi/rata/talin_frisbeegolfpuisto_helsinki/) |
-| 2 | **Äijänpelto frisbeegolf** | Äijänpellontie, Espoo | — | — |
-| 3 | **Powergrip** (disc golf shop) | Taktatie 18, 00370 Helsinki | — | [powergrip.fi](https://powergrip.fi) |
+| # | Name | Address | Notes |
+|---|------|---------|-------|
+| 1 | **Leppävaaran frisbeegolfrata** | Near Leppävaaran uimahalli area, 02650 Espoo | Public disc golf course |
+| 2 | **Ristikon frisbeegolfrata** | Near Ristikko shopping centre, 02600 Espoo | 9-hole course |
 
 ---
 
-## 🧖 Saunas (Saunat)
+## 🛀 Saunas (Saunat)
 
 | # | Name | Address | Notes |
 |---|------|---------|-------|
-| 1 | **Leppävaaran uimahalli saunas** | Veräjäpellonkatu 15, 02650 Espoo | Sauna facilities at the swimming hall |
-| 2 | **Holikasalon sauna** | Holikajärventie 19, 02650 Espoo | Near Leppävaara |
-| 3 | **Kemellä saunaterminaali** | Joutoainonkatu 4, 02100 Espoo | Nearby sauna boat |
+| 1 | **Leppävaaran uimahalli** (sauna section) | Veräjäpellonkatu 15, 02650 Espoo | Traditional Finnish sauna at the swimming hall |
+| 2 | **Spa & Wellness at various locations** | Sello area | Premium sauna & spa services |
 
 ---
 
-## 🚑 First Aid & Emergency (Hätätilanteet)
+## 🚨 First Aid & Emergency (Hätätilanteet)
+
+| # | Name | Address | Phone |
+|---|------|---------|-------|
+| 1 | **Helsinki Emergency Dispatch (Hätäräntti)** | — | ☎ 112 |
+| 2 | **Leppävaaran terveysasema** (after-hours) | Konstaapelinkatu 2, 02650 Espoo | ☎ 09 310 41100 |
+| 3 | **SaaTi suomiкої (Acute Health Service)** | Phone-based | ☎ 116 117 |
+
+> ⚠️ **Emergency:** Always dial **112** for life-threatening emergencies.
+
+---
+
+## 🏹 Sports Equipment Shops (Urheiluvälinekaupat)
 
 | # | Name | Address | Notes |
 |---|------|---------|-------|
-| 1 | **Helsingin Jaamasta Suchisen Ensiapuasema** | Tehtaankatu 1, 00390 Helsinki | 24/7 first aid for minor injuries |
-| 2 | **Deakoni sairaala** (Deaconess Hospital) | Alppikatu 2, 00530 Helsinki | Emergency department |
-| 3 | **HUS Cooperation Laboratory** | Trillakatu 5, 02610 Espoo | 24/7 emergency lab |
-| 4 | **Suomen Punainen Risti** (Finnish Red Cross) | Various locations | First aid training & kits |
-
-> ⚠️ **Emergency: 112**  
-> For life-threatening emergencies, always call 112.  
-> Non-urgent medical advice: 116 117 (Terveydenhoitopiiri)
+| 1 | **Sello sports shops** | Leppävaarankatu 3–9 (Sello), 02600 Espoo | Various sports retailers in Sello shopping centre |
+| 2 | **Intersport** | Sello shopping centre, 02600 Espoo | Sports equipment & apparel |
+| 3 | **Jimen Club** | Sello, 02600 Espoo | Sports equipment & footwear |
 
 ---
 
-## 🏍️ Sports Equipment Shops (Urheiluvälinekaupat)
+## 📍 Area Map & Coordinates
 
-| # | Name | Address | Notes |
-|---|------|---------|-------|
-| 1 | **Powergrip** | Taktatie 18, 00370 Helsinki | Disc golf equipment |
-| 2 | **Intersport** | Various locations in Espoo | Sports equipment chain |
-| 3 | **Stadium** | Galleria Leppävaara area | Sports & fitness equipment |
+**Leppävaara Station (reference point):** 60.2197° N, 24.8141° E
 
----
-
-## 📌 Notes & Disclaimers
-
-- **Data Sources:** OpenStreetMap, local business directories, Google Maps, and community contributions.
-- **Last Verified:** March 2026. Hours and contact details may change — please verify with the business directly.
-- **Not Medical Advice:** This guide is for reference only. Always confirm details before visiting.
-- **Contributions Welcome:** If you know of a business not listed here, please open an issue or submit a PR!
+### Neighbourhoods Covered:
+- **Leppävaara** (core area)
+- **Sello** (shopping centre with many health & fitness services)
+- **Galleria** (shopping area)
+- **Kilo** (residential area)
+- **Vallikallio** (residential area)
+- **Ristikko** (shopping area)
+- **Konala** (residential area)
+- **Heikinkangas**
+- **Lintuvaara**
 
 ---
 
-## 🗺️ Neighbourhoods Covered
+## 📝 Contributing
 
-- Leppävaara (core)
-- Sello (shopping centre)
-- Galleria (shopping centre)
-- Kilo / Kilo-Vallikallio
-- Ristikko
-- Konala
-- Pitäjänmäki
-- Lahnus
-- Perkpohja
-- Surrounding areas within ~3 km radius
+If you know of a health or fitness business in Leppävaara that should be added to this guide, or if you notice any outdated information, please open an issue or submit a pull request. We welcome updates from the community!
+
+### How to contribute:
+1. Fork this repository
+2. Create a new branch for your changes
+3. Update the relevant category table in the README
+4. Verify the information (address, hours, phone) if possible
+5. Submit a pull request with a description of the changes
+
+### Verification standards:
+- Phone numbers should be Finnish format (+358 ...)
+- Addresses should include postal code (02600 or 02650)
+- Websites should be clickable links
+- Data sources should be cited
 
 ---
 
-## 📄 License
+## 📊 Summary by Category
 
-This guide is open data — free to use and share. No license restrictions.
+| Category | Count |
+|----------|-------|
+| Pharmacies | 4 |
+| Clinics & Health Stations | 9 |
+| Dentists | 3 |
+| General Practitioners | 1 |
+| Physiotherapists | 2 |
+| Laboratory Services | 1 |
+| Assistive Device Services | 1 |
+| Rehabilitation | 1 |
+| Opticians | 3 |
+| Massage & Osteopathy | 1 |
+| Health Food Stores | 5 |
+| Gyms & Fitness Centres | 8 |
+| Swimming Pools | 2 |
+| Sports Halls & Indoor Facilities | 8 |
+| Golf | 2 |
+| Disc Golf | 2 |
+| Saunas | 2 |
+| First Aid & Emergency | 3 |
+| Sports Equipment Shops | 3 |
+| **Total** | **53** |
+
+---
+
+*Last updated: June 2026*  
+*Data sources: OpenStreetMap, local directories, community contributions*  
+*Location: Leppävaara, Espoo, Finland*
+```
