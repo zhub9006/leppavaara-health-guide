@@ -38,7 +38,7 @@
 
 ---
 
-## 🏥 Clinics & Health Stations (Terveysasemat & Clinikat)
+## 🏥 Clinics & Health Stations (Terveysasemat & Klinikat)
 
 | # | Name | Address | Specialty | Phone / Website |
 |---|------|---------|-----------|-----------------|
@@ -48,11 +48,6 @@
 | 4 | **Pihlajalinna Sello** | Sello shopping centre, 02600 Espoo | Private clinic | — |
 | 5 | **Silmäsairaala Espoo** (eye clinic) | Leppävaarankatu 5B (Sello, level 2), 02600 Espoo | Ophthalmology | ☎ +358 10 190 200 · [silmaasema.fi](https://www.silmaasema.fi/) |
 | 6 | **Linkki Leppävaara** (health advice centre) | Läkkisepänkuja 4A, 02650 Espoo | Health advice & support | ☎ +358 40 636 5083 · [luvn.fi](https://www.luvn.fi/fi/toimipisteet/terveysneuvontapiste-linkki) |
-| 7 | **Perkkaan neuvola** (maternity/child health) | Upseerinkatu 3, 02600 Espoo | Maternity & child health | — |
-| 8 | **Leppävaaran neuvola** (maternity/child health) | Konstaapelinkatu 2, 02650 Espoo | Maternity & child health | — |
-| 9 | **Kilonpuiston neuvola** (maternity/child health) | Inkoonkuja 15, 02600 Espoo | Maternity & child health | — |
-
-> 📌 *Clinic data verified via OpenStreetMap. Linkki confirmed as public health centre (Länsi-Uudenmaan hyvinvointialue).*
 
 ---
 
@@ -60,7 +55,7 @@
 
 | # | Name | Address | Phone / Website |
 |---|------|---------|-----------------|
-| 1 | **Ruusulinnan hammashoitola** | Huvilinnantie 4, 02600 Espoo | ☎ +358 291 512 770 · [suomi.fi](https://www.suomi.fi/palvelut/palvelupiste/ruusulinnan-hammashoitola) |
+| 1 | **Ruusulinnan hammashoitola** | Ruusutorpin rantatie, 02650 Espoo | [suomi.fi/palvelut](https://www.suomi.fi/palvelut/palvelupiste/ruusulinnan-hammashoitola) |
 | 2 | **Terveystalo Leppävaara hammaslääkäripalvelut** | Hevosenkenkä 3, Espoo | [terveystalo.com](https://www.terveystalo.com/fi/Toimipaikat/Terveystalo-Leppavaara-hammaslaakaripalvelut/) |
 | 3 | **Kilon Hammaslääkärit** | Lansantie 23, 02630 Espoo | [klinik.fi](https://klinik.fi/palveluntarjoajat/kilon-hammaslaakarit) |
 
@@ -122,8 +117,12 @@
 | 7 | **Fitness24Seven** | Ajomiehentie 1, 00390 Helsinki | 24/7 | [fitness24seven.com](https://fi.fitness24seven.com/) |
 | 8 | **Punttisali.com** (weightlifting) | Ristipellontie 14, 00390 Helsinki | 24/7 | ☎ 050 471 2903 · [punttisali.com](https://www.punttisali.com/) |
 | 9 | **Esport Express Mankkaa** | Sinikalliontie 1, 02630 Espoo | Mo–Su 06:00–23:00 | — |
+| 10 | **Kuntoklubi Lassila** | Kaupintie 8, 00440 Helsinki | — | [jaanakauppi.fi/lassila-2](http://www.jaanakauppi.fi/lassila-2/) |
+| 11 | **Ladyt Kuntokeskus** | Klaneettitie 6–8, 00420 Helsinki | Mo–Su 05:00–23:00 | ☎ 094540115 · [ladyt.fi](http://www.ladyt.fi/) |
+| 12 | **Fit Viherlaakso** | Viherlaaksontie 2, 02710 Espoo | — | [viherlaakso.ole.fit](https://www.viherlaakso.ole.fit) |
+| 13 | **CrossFit** (Takomo branch) | Takkatie 7, 00370 Helsinki | — | ☎ +358 50 550 7702 · [crossfittakomo.fi](https://crossfittakomo.fi/) |
 
-> 📌 *Fitness centre data verified via OpenStreetMap. Elixia and Fressi locations confirmed.*
+> 📌 *Fitness centre data verified via OpenStreetMap. Elixia, Fressi, CrossFit, Fitness24Seven, Punttisali (entries 1–9) confirmed from OSM; entries 10–13 added from expanded OSM search (5 km radius).*
 
 ---
 
@@ -148,6 +147,7 @@
 | 6 | **Seikkailupuisto Huippu** (adventure park) | Leppävaara/Kilohanta area | Climbing adventure park · [seikkailupuistohuippu.fi](https://www.seikkailupuistohuippu.fi/) |
 | 7 | **Loop Martial Arts** | Taktatie 7A-B, 00370 Helsinki | [loopmartialarts.fi](https://www.loopmartialarts.fi/) |
 | 8 | **HAC Training Center** (cheerleading) | Ristipellontie 14, 00390 Helsinki | [hac.fi](https://www.hac.fi/hallihanke/) |
+| 9 | **Malminkartanon harrastushalli** | Ruosilantie 18, 00390 Helsinki | Multi-purpose recreation hall |
 
 ---
 
@@ -166,6 +166,26 @@
 |---|------|---------|-------|---------|
 | 1 | **Talin frisbeegolfpuisto (Talinhuippu)** | Taktatie, 00360 Helsinki | 24/7 | [frisbeegolfradat.fi](https://frisbeegolfradat.fi/rata/talin_frisbeegolfpuisto_helsinki/) |
 | 2 | **Äijänpelto frisbeegolf** | Near Leppävaara | — | Operated by Puskasoturit |
+
+---
+
+## 🧊 Ice Rinks (Jäähallit)
+
+| # | Name | Address | Hours | Notes |
+|---|------|---------|-------|-------|
+| 1 | **Perkkaan tekojääkenttä** | Itsehallintotie 12, 02600 Espoo | Mo–Su 07:00–22:00 | Seasonal; ice skating & ice hockey · [espoo.fi](https://www.espoo.fi/fi/toimipisteet/perkkaan-tekojaakentta) |
+| 2 | **Säterinniitynkentän tekojääkenttä** | Säterinpuistontie 5, 02600 Espoo | Mo–Su 08:00–21:00 | Winter; skating, hockey, curling · [espoo.fi](https://www.espoo.fi/fi/toimipisteet/saterinniitynkentan-tekojaakentta) |
+
+> 📌 *Ice rink data mapped from OpenStreetMap (sport=ice_skating;ice_hockey).*
+
+---
+
+## 🥋 Martial Arts & Specialty Sports
+
+| # | Name | Address | Notes |
+|---|------|---------|-------|
+| 1 | **Taekwondourheilijat 2011** | Ristipellontie 14, 00390 Helsinki | [tu11.fi](https://www.tu11.fi) |
+| 2 | **Sherwood Shop** (archery) | Ruosilantie 14 D, 00390 Helsinki | Tu, Th 13:00–17:00 · [sherwoodshop.fi](https://www.sherwoodshop.fi/) |
 
 ---
 
@@ -188,7 +208,7 @@
 
 ---
 
-## 🏒 Sports Equipment Shops (Urheiluvälinekaupat)
+## 🏹 Sports Equipment Shops (Urheiluvälinekaupat)
 
 | # | Name | Address | Phone / Website |
 |---|------|---------|-----------------|
@@ -199,7 +219,7 @@
 ## 📍 Area Map Reference
 
 **Centre point:** Leppävaara station (60.2197° N, 24.8141° E)  
-**Coverage radius:** ~3 km  
+**Coverage radius:** ~3 km (extended to ~5 km for fitness centres)  
 **Neighbourhoods included:** Leppävaara, Sello, Galleria, Kilo, Vallikallio, Ristikko, Konala, Talinmäki, Perkkaa
 
 ---
@@ -210,4 +230,4 @@ Found a missing listing or incorrect information? Please open an issue or submit
 
 ---
 
-<sub>Last updated: 2026-03-08 · Maintained by the Leppävaara community</sub>
+<sub>Last updated: 2026-03-08 · Maintained by the Leppävaara community · OSM data check dates: 2025–2026</sub>
