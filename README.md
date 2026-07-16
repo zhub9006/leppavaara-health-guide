@@ -4,7 +4,7 @@ A community resource guide for Leppävaara residents, listing **all health-relat
 
 > **Coverage Area:** Leppävaara and surrounding sub-districts (Etelä-Leppävaara, Pohjois-Leppävaara, Vallikallio, Ruusutorppa, Kilo, Laajalahti) in Espoo, Finland — approximately 3 km radius from Leppävaara centre (60.220°N, 24.814°E).
 >
-> **Data freshness:** OSM data verified May 2026. Always double-check opening hours and contact details before visiting.
+> **Data freshness:** OSM data verified July 2026. Always double-check opening hours and contact details before visiting.
 
 ---
 
@@ -29,7 +29,7 @@ A community resource guide for Leppävaara residents, listing **all health-relat
 - [🥗 Health Food Stores](#-health-food-stores)
 - [📢 Health-Adjacent Shops](#-health-adjacent-shops)
 - [⚕ Nearby Larger Facilities](#-nearby-larger-facilities)
-- [🗺 OSM Verification Legend](#-osm-verification-legend)
+- [📜 OSM Verification Legend](#-osm-verification-legend)
 - [📝 Notes & Disclaimer](#-notes--disclaimer)
 - [🤝 Contributing](#-contributing)
 
@@ -69,7 +69,7 @@ A community resource guide for Leppävaara residents, listing **all health-relat
 
 > **Mehiläinen** — Finland's leading private healthcare provider. Services include GP visits, lab tests, X-rays, ultrasound, and specialist referrals. Registration required.
 >
-> **Terveystalo Leppävaara** — The largest private healthcare chain in Finland. GP consultations, lab work, and specialist referrals. Walk-in appointments available for一些问题.
+> **Terveystalo Leppävaara** — The largest private healthcare chain in Finland. GP consultations, lab work, and specialist referrals. Walk-in appointments available for some services.
 
 ### Pharmacies (Apteekit)
 
@@ -178,7 +178,7 @@ A community resource guide for Leppävaara residents, listing **all health-relat
 | **Ruohonjuuri (Tapiola)** | Health Food / Organic (`shop=health_food`) | Tapionaukio 4, Revontuli, 02100 Espoo | ✅ Verified |
 | **Ruohonjuuri (Matinkylä)** | Health Food / Organic (`shop=convenience`) | Piispansilta 11, 02230 Espoo | ✅ Verified |
 | **Al-Amal Halal Itämainen Elintarvikekauppa** | Halal Grocery (`shop=convenience`) | Leppävaarankatu area, 02600 Espoo | `shop=convenience` |
-| **Sun Market** | Market / Grocer | Leppävaarankatu area, 02600 Espoo | `shop=convenience` |
+| **Sun Market** | Market / Grocers | Leppävaarankatu area, 02600 Espoo | `shop=convenience` |
 
 > **Note:** There is no dedicated health food store (luomukauppa) in the immediate Leppävaara core. **K-Citymarket Sello** and **K-Supermarket Leppävaara** carry extensive organic/bio-labeled selections. The nearest genuine organic shops — **Ruohonjuuri** — are at Tapiola (~2 km west) and Matinkylä (~7 km south), accessible by bus.
 
@@ -188,73 +188,67 @@ A community resource guide for Leppävaara residents, listing **all health-relat
 
 | Name | OSM Shop Type | Verified Address |
 |------|---------------|-----------------|
-| **K-Citymarket (Sello)** | `shop=supermarket` | Leppävaarankatu 3-9 (Sello), 02600 Espoo |
-| **K-Supermarket Leppävaara** | `shop=supermarket` | Konstaapelinkatu 4 (Galleria), 02650 Espoo |
-| **Prisma (Sello)** | `shop=supermarket` | Leppävaarankatu 5 (Sello), 02600 Espoo |
-| **Lidl (Leppävaara)** | `shop=supermarket` | Ratsakatu 3 (Sello), 02600 Espoo |
-| **K-Market Sello** | `shop=convenience` | Leppävaarankatu 3-9, Sello (G-levy -1F) |
-| **Alepa Sello** | `shop=convenience` | Leppävaarankatu 3-9, Sello (G-levy -1F) |
-| **R-Kioski (Sello)** | `shop=kiosk` | Leppävaarankatu area, Sello G-levy (1F) |
-| **Alko (Sello)** | `shop=alcohol` | Leppävaarankatu 3-9, Sello (1F) |
+| **Emotion Sello** | Cosmetics (`shop=cosmetics`) | Leppävaarankatu 3-9, Sello, 02600 Espoo |
+| **Partioaitta** | Outdoor / Sports Shop (`shop=outdoor`) | Leppävaarankatu 3-9, Sello, 02600 Espoo |
+| **K-Citymarket Sello** | Supermarket (`shop=supermarket`) | Leppävaarankatu 3-9, Sello, 02600 Espoo |
+| **K-Supermarket Leppävaara** | Supermarket (`shop=supermarket`) | Kilo, 02610 Espoo |
+| **Alko Sello** | Alcoholic Beverages (`shop=alcohol`) | Leppävaarankatu 3-9, Sello, 02600 Espoo |
+
+> **Tip:** Sello shopping centre is the one-stop health-adjacent hub — cosmetics, outdoor gear, groceries, pharmacy (2nd floor), and more all under one roof.
 
 ---
 
 ## ⚕ Nearby Larger Facilities
 
-| Name | Type | Address | Distance |
-|------|------|---------|----------|
-| **Mehiläinen Länsiudahautaus** | Private Hospital/Clinic | Länsiudahautaus 4, 02600 Espoo | ~3 km |
-| **Terveystalo Keilaniemi** | General Medical | Merimaantie 3, 02150 Espoo | ~4 km |
-| **Helsinki University Hospital (HUS)** | University Hospital | Haartmaninkatu 4, 00290 Helsinki | ~12 km |
-
-> For emergencies, always dial **112**. The closest emergency department is at **HUS Helsingin yliopistollinen keskussairaala** (Helsinki).
+| Facility | Type | Address | Distance |
+|----------|------|---------|----------|
+| **Mehiläinen Capital Hospital** | Private Hospital | Kirurgintie 1, 00280 Helsinki | ~12 km |
+| **HUS Trauma Station (Töölö)** | Emergency Hospital | Topeliuksenkatu 5, 00250 Helsinki | ~10 km |
+| **Päivähoito Kytäjä** | Day Care / Health | Kytäjäntie 30, 02650 Espoo | ~4 km |
+| **Etelä-Espoon seurantehoitokoti** | Care Home | Perämäentie 20, 02610 Espoo | ~3 km |
 
 ---
 
-## 🗺 OSM Verification Legend
+## 📜 OSM Verification Legend
 
 | Symbol | Meaning |
 |--------|---------|
-| ✅ | Coordinate & address verified via OSM geocoding + reverse geocoding |
-| ~ | Approximate location inferred from OSM tags |
-| `amenity=…` | OSM tag value shown in backticks for transparency |
-| Community-confirmed | Verified by multiple OSM contributors or local sources |
+| ✅ OSM-verified (`amenity=xxx`) | Directly tagged in OpenStreetMap |
+| ✅ Verified | Position/address confirmed via reverse geocoding |
+| Community-confirmed | Verified by local knowledge, not direct OSM tag |
+| `leisure=sports_centre` | Sports centre building in OSM |
+| `shop=health_food` | Health food shop in OSM |
+| `healthcare=physiotherapist` | Physiotherapy service in OSM |
 
 ---
 
 ## 📝 Notes & Disclaimer
 
-- **Primary data source:** OpenStreetMap (OSM), cross-verified with geocoding and reverse geocoding queries.
-- **Coordinates** are WGS84 (latitude, longitude) and verified wherever possible.
-- **OSM tags** are displayed in backticks (`) so community editors can validate or update entries.
-- **Opening hours, phone numbers, and websites** are community-sourced. **Always check before visiting.**
-- **Leppävaara** is a suburb of Espoo, part of the Helsinki metropolitan area (Helsingin seutukunta, Uusimaa, Finland).
-- **Distances** are approximate as-the-crow-flies from Leppävaara centre (Leppävaaranaukio, 60.2197°N, 24.8141°E).
-- This is a **community-maintained** resource. Data may not be exhaustive. Please contribute missing entries!
-- **Neighborhood livability scores** (source: OSM-based analysis) — Healthcare: 8.7/10 · Sports: 9.5/10 · Groceries: 9.7/10 · Restaurants: 9.7/10 · Public Transport: 9.9/10 · Shopping: 9.6/10 · Education: 9.0/10 · Overall: 9.0/10.
+- **Opening hours:** May change seasonally. Check websites or call before visiting.
+- **Address accuracy:** All addresses cross-referenced with OSM `addr:*` tags. For addresses lacking house numbers, the street/district reference is given.
+- **Distance estimates:** Straight-line (as-the-crow-flies) distances from Leppävaara centre (60.220°N, 24.814°E).
+- **Finnish abbreviations:** Apteekki (pharmacy), neuvola (maternal/child health clinic), terveysasema (health centre), uimahalli (swimming hall), väestönsuoja (community hall).
+- **Private healthcare:** Mehiläinen and Terveystalo require registration (except emergency walk-ins). Finnish Kela card may reduce fees.
+- **This guide covers health & wellness businesses only.** Restaurants, cafés, and general retail stores are listed only when health-adjacent.
 
 ---
 
 ## 🤝 Contributing
 
-This is a **community-maintained** resource. To add or correct entries:
+This guide is maintained by the Leppävaara community using **OpenStreetMap** data, OSM geocoding, reverse geocoding, and neighborhood analysis.
 
-1. **Find it on OSM:** Search [OpenStreetMap](https://www.openstreetmap.org) for the place. Check the tags (`amenity`, `shop`, `leisure`, `healthcare`, `shop`, etc.) and confirm the address and coordinates.
-2. **Verify with geocoding:** Use reverse geocoding on the coordinates to confirm the address is correct.
-3. **Report a change:** Open a GitHub issue or submit a pull request with:
-   - The business name
-   - Verified address (street, house number, postcode, city)
-   - Coordinates (latitude, longitude)
-   - OSM tags (e.g., `amenity=pharmacy`)
-   - Any contact info (phone, website, email)
-   - Distance from Leppävaara centre
+1. **Suggest additions:** Found a new gym, health food store, or clinic? Open an issue or submit a PR with:
+   - Name, address, website
+   - Your source (OSM link preferred)
+   - Contact phone or email (optional)
+2. **Correct a listing:** Found outdated info? Submit a PR with the update.
+3. **Remove closed businesses:** Open an issue with a note about the closure.
 
-### How to Add a New Entry
+**Data sources:**
+- [OpenStreetMap](https://www.openstreetmap.org) — Primary data source
+- [Nominatim Geocoder](https://nominatim.openstreetmap.org) — Address verification
+- [OSM search API](https://overpass-turbo.eu) — Coordinate extraction
 
-```
-| **Name** | Type | Address | OSM Tags | Coordinates (WGS84) |
-|----------|------|---------|----------|----------------------|
-| **Business Name** | Classification | Street name + number, Postcode City | `amenity=…` | ✅ Lat, Lon |
-```
+---
 
-Thank you to all OSM contributors who make this guide possible! 🗺❤️
+*Last updated: July 2026 · Coverage: 🏥 💪 🏊 🏟 🥗*
