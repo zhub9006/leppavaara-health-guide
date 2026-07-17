@@ -20,6 +20,7 @@ This guide covers health and fitness resources within the **Leppävaara core are
 |----------|---------|-------------|
 | **Leppävaara railway station** | Leppävaaranaukio, 02600 Espoo | 60.2194°N, 24.8135°E |
 | **Sello shopping centre** | 3-9 Leppävaarankatu, 02600 Espoo | 60.2182°N, 24.8123°E |
+| **Galleria** | 4 Konstaapelinkatu, 02650 Espoo | 60.2214°N, 24.8127°E |
 | **Leppävaaran uimahalli** | 15 Veräjäpellonkatu, 02650 Espoo | 60.2261°N, 24.8025°E |
 | **Sub-districts** | Pohjois-Leppävaara, Perkkaa, Kilonpuisto, Etelä-Leppävaara | — |
 
@@ -75,7 +76,11 @@ All pharmacies have wheelchair access. Sellon Apteekki also offers COVID-19 test
 
 | # | Name | Address | Notes |
 |---|------|---------|-------|
-| 1 | **Liikuntastudio Luhtavilla** | 3 Timpurinkuja, 02650 Espoo | Indoor fitness studio (near Leppävaaran uimahalli) |
+| 1 | **ELIXIA** | 3-9 Leppävaarankatu (Sello, 3F), 02600 Espoo | Full-service gym with group classes; phone +358 10 309 9430 |
+| 2 | **Fressi Leppävaara** | 2 Esikunnankatu, 02600 Espoo (Vermonniitty) | 24/7 access; near Leppävaara railway station |
+| 3 | **Fressi Kilo** | 3 A Kilonkuja, 02610 Espoo | 24/7 access; in the Kilo area |
+| 4 | **Liikuntastudio Luhtavilla** | 3 Timpurinkuja, 02650 Espoo | Indoor fitness studio (near Leppävaaran uimahalli) |
+| 5 | **Fitness24Seven** | 11 Turveradantie, 02630 Espoo (Pohjois-Laajalahti) | 24/7 budget gym; opening Mo-Th 11:00–20:00; Fr 11:00–16:00; Sa–Su 12:00–16:00 |
 
 ---
 
@@ -84,21 +89,29 @@ All pharmacies have wheelchair access. Sellon Apteekki also offers COVID-19 test
 | # | Name | Address | Details |
 |---|------|---------|---------|
 | 1 | **Leppävaaran uimahalli** (indoor pool) | 15 Veräjäpellonkatu, 02650 Espoo | Indoor swimming hall in Gransinmäki |
-| 2 | **Maauimala (outdoor pool)** | 15 Veräjäpellonkatu, 02650 Espoo | Open-air swimming pool, seasonal |
+| 2 | **Maauimala** (outdoor pool) | 15 Veräjäpellonkatu, 02650 Espoo | Open-air swimming pool, seasonal (summer) |
 
 ---
 
-## 🎢 Sports Facilities & Active Recreation
+## 🏟 Sports Facilities & Active Recreation
 
 | # | Name | Address | Activity |
 |---|------|---------|----------|
-| 1 | **Golf Park Leppävaara** | 1 Säterinpuistontie, 02600 Espoo | Golf driving range (Mo–Fr 10:00–20:00; Sa–Su 10:00–19:00) |
-| 2 | **Seikkailupuisto Huippu** | Pohjois-Leppävaara (grande area north of Leppävaara) | Adventure climbing park |
-| 3 | **Kyyhkyspuisto** | Pohjois-Leppävaara | Park; outdoor fitness stations |
+| 1 | **Golf Park Leppävaara** | 1 Säterinpuistontie, 02600 Espoo | Golf driving range; Mo–Fr 10:00–20:00; Sa–Su 10:00–19:00; phone +358 50 405 8434 |
+| 2 | **Leppävaaran Ratsastuskoulu** | 4 Maneesipolku, 02620 Espoo | Equestrian school; phone 09596393; website [leppavaaranratsastuskoulu.fi](https://www.leppavaaranratsastuskoulu.fi/) |
+| 3 | **Kilon talli** | 4 Kilonkartanontie, 02610 Espoo | Equestrian stable; fee-based |
+| 4 | **Seikkailupuisto Huippu** | Pohjois-Leppävaara (near Ristikko) | Adventure climbing park; website [seikkailupuistohuippu.fi](https://www.seikkailupuistohuippu.fi/) |
+| 5 | **KiipeilyAreena Ristikko** | 1 Ajomiehentie (Kauppakeskus Ristikko), 00390 Helsinki | Indoor climbing: boulder, speed, sport, top rope; Mo–Fr 10:00–22:00; Sa–Su 10:00–20:00 |
+| 6 | **Boulderkeskus Konala** | 1 Ruosilantie, 00390 Helsinki | Bouldering hall; Mo–Fr 10:00–21:00; Sa–Su 10:00–18:00 |
+| 7 | **Loop Martial Arts** | 7A–B Takkatie, 00370 Helsinki | Martial arts training; website [loopmartialarts.fi](https://www.loopmartialarts.fi/) |
+| 8 | **HAC Training Center** | 14 Ristipellontie, 00390 Helsinki | Cheerleading & gymnastics; website [hac.fi](https://www.hac.fi/hallihanke/) |
+| 9 | **Taekwondourheilijat 2011** | 14 Ristipellontie, 00390 Helsinki | Taekwondo training; website [tu11.fi](https://www.tu11.fi) |
+| 10 | **Malminkartanon harrastushalli** | 18 Ruosilantie, 00390 Helsinki | Multi-sport recreation hall (free entry); website [nuorten.hel.fi](https://nuorten.hel.fi/nuorisotalot/malminkartanon-harrastushalli/) |
+| 11 | **Kyyhkyspuisto** | Pohjois-Leppävaara | Park with outdoor fitness stations |
 
 ---
 
-## 🥦 Supermarkets & Health-Food Options
+## 🥗 Supermarkets & Health-Food Options
 
 The following supermarkets in and around Leppävaara carry organic and health food selections:
 
@@ -109,7 +122,7 @@ The following supermarkets in and around Leppävaara carry organic and health fo
 | 3 | **Prisma** | 5 Leppävaarankatu (Sello), 02600 Espoo | Large-scale supermarket; wide organic & specialty selection |
 | 4 | **Lidl** | 3 Ratsukatu (Sello), 02600 Espoo | Known for affordable health & organic products |
 | 5 | **K-Supermarket Vallikallio** | 33 Lintuvaarantie, 02650 Espoo | Health food options; near swimming hall area |
-| 6 | **K-Market** | Leppävaarankatu (Sello -1F), 02600 Espoo | Convenience; good for quick healthy staples |
+| 6 | **K-Market Sello** | Leppävaarankatu (Sello -1F), 02600 Espoo | Convenience; good for quick healthy staples |
 | 7 | **Oikko – Itämainen ruokakauppa** | 3-9 Leppävaarankatu (Sello), 02600 Espoo | Asian health foods & ingredients |
 | 8 | **GC Asian Supermarket** | 4 Konstaapelinkatu, 02650 Espoo | International / Asian health foods |
 | 9 | **Sun Market** | (in the Sello/Galleria area), 02600 Espoo | International ingredients |
@@ -126,7 +139,11 @@ The following supermarkets in and around Leppävaara carry organic and health fo
 | # | Name | Address |
 |---|------|---------|
 | 1 | **Specsavers** | 3-9 Leppävaarankatu (Sello), 02600 Espoo |
-| 2 | **Suomen Silmäproteesiklinikka** | 1 Hakkukuja, 02650 Espoo |
+| 2 | **Nissen** | 3-9 Leppävaarankatu (Sello), 02600 Espoo |
+| 3 | **Instrumentarium** | 3-9 Leppävaarankatu (Sello), 02600 Espoo |
+| 4 | **Silmäasema** | 3-9 Leppävaarankatu (Sello), 02600 Espoo |
+| 5 | **Sellon Katse** | 3-9 Leppävaarankatu (Sello), 02600 Espoo |
+| 6 | **Suomen Silmäproteesiklinikka** | 1 Hakkukuja, 02650 Espoo |
 
 ### Physiotherapy
 
@@ -139,15 +156,6 @@ The following supermarkets in and around Leppävaara carry organic and health fo
 | # | Name | Address | Notes |
 |---|------|---------|-------|
 | 1 | **Lucky Thai Hieronta** | Lintuvaarantie area, 02650 Espoo | Thai massage; Mo–Su 09:00–22:00 |
-
-### Beauty & Nail Salons (in Sello)
-
-| # | Name | Address |
-|---|------|---------|
-| 1 | **New Hairstore** | Sello 1F, 02600 Espoo | Unisex |
-| 2 | **Cutters** | Sello 1F, 02600 Espoo |
-| 3 | **Salon Klipsi** | Sello 1F, 02600 Espoo |
-| 4 | **New Hairstore** | Sello 1F, 02600 Espoo |
 
 ---
 
@@ -205,24 +213,27 @@ The following supermarkets in and around Leppävaara carry organic and health fo
               Gransinmäki             Kyyhkyspuisto
                  │                            │
           Leppävaaran uimahalli       Seikkailupuisto Huippu
+                 │                        & KiipeilyAreena
+                 │                            │
+          Maauimala (outdoor)          Boulderkeskus Konala
 ```
 
 ---
 
-## 📡 Emergency nearest to Leppävaara
+## 🏥 Emergency Nearest to Leppävaara
 
 The closest hospitals to Leppävaara with emergency departments:
 
 | Hospital | Address | Drive from Leppävaara |
 |----------|---------|----------------------|
-| **Töölö Hospital** | Helsinki (lng) | ~8 km, 15 min by car |
+| **Töölö Hospital** | Helsinki | ~8 km, 15 min by car |
 | **Espoo Hospital (Jorvi)** | Karvasmäentie 2, Espoo | ~10 km, 20 min by car |
-| **Mehiläinen Espoo** | (in Leppävaara) | Walk/cycle |
+| **Mehiläinen Espoo** | In Leppävaara | Walk/cycle |
 | **Lohjan sairaala** | Lohja | ~25 km, 30 min by car |
 
 ---
 
-## 📚 Sources & How to Contribute
+## 📋 Sources & How to Contribute
 
 All location data was collected from **[OpenStreetMap](https://www.openstreetmap.org/)** using the OSM tags `amenity`, `shop`, `leisure`, `healthcare`, and `tourism`. Check dates range from 2022 to 2026 for different entries.
 
