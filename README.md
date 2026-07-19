@@ -1,4 +1,4 @@
-# 🏠 Leppävaara Health & Wellness Resource Guide
+# 🏥 Leppävaara Health & Wellness Resource Guide
 
 A community resource guide for **Leppävaara residents** (Espoo, Finland), listing **health-related businesses, fitness facilities, health food options, and wellness services** — all mapped from verified OpenStreetMap data.
 
@@ -95,7 +95,7 @@ This guide covers health and fitness resources within the **Leppävaara core are
 
 ---
 
-## 🏋️ Sports Halls, Sports Centres & Active Recreation
+## 🏟️ Sports Halls, Sports Centres & Active Recreation
 
 ### Indoor Sports & Climbing Centres
 
@@ -132,6 +132,8 @@ This guide covers health and fitness resources within the **Leppävaara core are
 |---|------|------|-------|
 | 10 | **Kyyhkyspuisto** | Pohjois-Leppävaara | Park with outdoor fitness stations |
 | 11 | **Golf Park Leppävaara** | 1 Säterinpuistontie | Outdoor driving range & green |
+
+**Leppävaaran urheiluhalli** (Leppävaara Sports Hall) is located at Veräjänpieli, Gransinmäki, Pohjois-Leppävaara, 02650 Espoo — a dedicated community sports hall for indoor sports and exercise.
 
 ---
 
@@ -195,19 +197,40 @@ The following supermarkets in and around Leppävaara carry organic (bio) product
 
 1. **Pharmacies:** Sello-based pharmacies (Sellon Apteekki, Sanitum Apteekki) have extended weekday hours. Apteekki Elixir and Viherlaakson apteekki serve outlying parts of the district.
 2. **Health centres:** **Leppävaaran terveysasema** (primary care) and **Leppävaaran neuvola** (maternal/child health) are at the same address on Konstaapelinkatu. **Kilon terveysasema** serves the Kilo/Kilonpuisto area.
-3. **Gym/fitness:** Elixia is inside Sello (Level 3). Liikuntastudio Luhtavilla and Fressi are nearby residential studios. Fressi Kilo offers 24/7 access. For CrossFit, try Valmennuskeskus Newton.
-4. **Swimming:** The main indoor swimming hall is **Leppävaaran uimahalli** on Veräjäpellonkatu. Check espoo.fi for seasonal outdoor pools (maauimala).
-5. **Health foods:** Visit **K-Citymarket Sello**, **Prisma Sello**, or **K-Supermarket Galleria** for organic/bio (Pirkka brand) groceries. For specialty supplements, try **Apotea.fi** delivery.
-6. **Dental care:** HUS dental care can be booked via huss.fi; private options at Terveystalo (Hevosenkenkä) and Ruusulinnan hammashoitola (Huvilinnantie).
-7. **Sports:** Seikkailupuisto Huippu (climbing park) is in Pohjois-Leppävaara; Golf Park offers driving range; BowlCircus is bowling at Sello. For more intense climbing, Boulderkeskus Konala and KiipeilyAreena Ristikko are nearby.
-8. **Eye care:** Nissen optician is inside Sello; Suomen Silmäproteesiklinikka is in Vallikallio for specialised eye prosthetics.
+3. **Gym/fitness:** Elixia is inside Sello (Level 3). Liikuntastudio Luhtavilla and Fressi are nearby residential studios. Fressi Kilo offers 24/7 access. For CrossFit, visit Newton/CrossFit Nuijala.
+4. **Swimming:** Leppävaaran uimahalli is the main indoor pool. Check schedules for lane swimming and open-water sessions at the maauimala.
+5. **Sports halls:** Leppävaaran urheiluhalli and the Seikkailupuisto Huippu adventure park offer additional active recreation.
+6. **Health food:** For organic products, K-Citymarket Sello and Prisma Sello have the best selection. Lidl Mankkaa also carries Pirkka organic products.
 
 ---
 
-## 🗺️ Data Sources
+## 📍 Sub-District Quick Reference
 
-- **OpenStreetMap** (node, way, relation POIs) via geocoding API
-- All locations verified against the Leppävaara district boundary (60.2056°N–60.2308°N, 24.7929°E–24.8514°E)
-- Addresses and contact details cross-referenced with business listings
+| Sub-District | Postal Code | Key Facilities |
+|---|---|---|
+| **Etelä-Leppävaara** | 02600 | Sello, Elixia, Terveystalo, Apteekki Elixir, Ruusulinnan hammashoitola |
+| **Pohjois-Leppävaara** | 02650 | Leppävaaran terveysasema, uimahalli, Leppävaaran urheiluhalli |
+| **Vallikallio** | 02650 | Leppävaaran terveysasema, Leppävaaran neuvola, K-Supermarket |
+| **Perkka / Vermonniitty** | 02600 | Fressi Leppävaara |
+| **Kilo / Kilonpuisto** | 02610–02630 | Kilon terveysasema, Fressi Kilo, Kilon talli |
+| **Viherlaakso** | 02710 | Viherlaakson apteekki |
+| **Mankkaa** | 02630 | K-Supermarket, Lidl |
+| **Konala** (Helsinki) | 00390 | BK Konala, Ristikko, HAC Training |
 
-> **Disclaimer:** This guide is a community resource. Business hours, services, and contact details may change. Verify before visiting. This is not an endorsement of any listed business.
+---
+
+## 🤝 Contributing
+
+This is a community guide! If you know of a health or fitness business in Leppävaara that's missing, please:
+
+1. Verify the business on [OpenStreetMap](https://www.openstreetmap.org/)
+2. Open an issue with the name, address, and category
+3. Alternatively, submit a pull request with the new entry
+
+All data is sourced from OpenStreetMap under the [ODbL](https://opendatacommons.org/licenses/odbl/) license.
+
+---
+
+## 📄 License
+
+This README and its contents are provided as-is for community use. Individual OpenStreetMap data is available under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/).
