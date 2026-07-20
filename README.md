@@ -26,7 +26,8 @@ A community resource guide for Leppävaara residents, listing all health-related
 6. [Emergency & After-Hours](#emergency--after-hours)
 7. [Summary Map — Health Cluster](#summary-map--health-cluster)
 8. [Notes & Disclaimer](#notes--disclaimer)
-9. [Contributing](#contributing)
+9. [Data Files](#data-files)
+10. [Contributing](#contributing)
 
 ---
 
@@ -38,7 +39,7 @@ A community resource guide for Leppävaara residents, listing all health-related
 |------|---------|-----------------|
 | **Leppävaaran terveysasema** | Konstaapelinkatu 2, Vallikallio, 02650 Espoo | ✅ 60.2216°N, 24.8139°E |
 
-> The district's main public health centre. Offers GP consultations, nurse visits, preventive care, vaccinations, health screenings, and child health clinic (neuvola) services.
+Main health centre offering GP consultations, nurse visits, preventive care, vaccinations, and health screenings.
 
 ### Private Medical Clinics
 
@@ -61,7 +62,7 @@ A community resource guide for Leppävaara residents, listing all health-related
 |------|---------|-------|-----------------|
 | **Sellon Apteekki** | Leppävaarankatu 3-9 (Sello), L2, 02600 Espoo | Sello shopping centre — G-levy | ✅ 60.2181°N, 24.8102°E |
 | **Sanitum Apteekki** | Alberganpromenadi, Ruusutorppa, 02600 Espoo | Sello area; near Alma Talent | ✅ 60.2180°N, 24.8135°E |
-| **Apteekki Elixir** | Hevosenkenkä 3, Ruusutorppa, 02650 Espoo | Next to Mehiläinen / Terveystalo | ✅ 60.2187°N, 24.8144°E |
+| **Apteekki Elixir** | Hevosenkenkä 3, Ruusutorppa, 02650 Espoo | Near Mehiläinen / Terveystalo health blocks | ✅ 60.2187°N, 24.8144°E |
 
 > 💊 **Hevosenkenkä 3 / Ruusutorppa** — Leppävaara's main health cluster with GP clinics (Terveystalo, Mehiläinen), dental, and pharmacy (Apteekki Elixir) all within a **200 m walk**.
 
@@ -230,14 +231,21 @@ A community resource guide for Leppävaara residents, listing all health-related
 
 ---
 
+## Data Files
+
+- **`data/leppavaara-health-businesses.json`** — Machine-readable JSON with all businesses, coordinates, phone numbers, features, and opening hours. Ideal for building custom apps, maps, or GIS tools.
+
+---
+
 ## Contributing
 
 This is a community guide! To add, correct, or update a venue:
 
 1. **Verify** the venue on [OpenStreetMap](https://www.openstreetmap.org/) — check that its `amenity`, `shop`, or `leisure` tag is accurate and the address is correct.
-2. **Open a pull request** with your changes to this `README.md`.
+2. **Open a pull request** with your changes to `README.md` and/or `data/leppavaara-health-businesses.json`.
 3. **Format**: use the same table style with columns for Name, Type, Address, and OSM-verified coordinates.
 4. **Prioritise** OSM-verified data; mark community-reported entries with a note.
+5. **Update the JSON data file** when adding new businesses to keep it in sync.
 
 Thanks to all contributors and the OpenStreetMap community for making this possible! 🗺️🏥💪
 
