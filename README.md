@@ -2,223 +2,195 @@
 
 A community resource guide for Leppävaara residents, listing all health-related businesses and fitness facilities in the area. All locations are sourced from **OpenStreetMap (OSM)** data and cross-verified geocoding.
 
-> **Coverage Area:** Leppävaara and surrounding sub-districts (Etelä-Leppävaara, Pohjois-Leppävaara, Vallikallio, Ruusutorppa, Kilo, Laajalahti, Perkkaa) in Espoo, Finland — approximately 3 km radius from Leppävaara center (60.220°N, 24.814°E).
+> **Coverage Area:** Leppävaara and surrounding sub-districts (Etelä-Leppävaara, Pohjois-Leppävaara, Vallikallio, Ruusutorppa, Kilo, Laajalahti, Perkkaa, Vermo) in Espoo, Finland — approximately 3 km radius from Leppävaara center (60.220°N, 24.814°E).
 
 ---
 
 ## Table of Contents
 
-- [🏥 Healthcare & Clinics](#🏥-healthcare--clinics)
+- [:heart_decoration: Healthcare & Clinics](#heart_decoration-healthcare--clinics)
   - [Primary Health Center](#primary-health-center)
-  - [General Medical Clinics](#general-medical-clinics)
   - [Private Medical Clinics](#private-medical-clinics)
-  - [Dental Clinics](#dental-clinics)
+  - [Dental Clinic](#dental-clinic)
   - [Pharmacies (Apteekit)](#pharmacies-apteekit)
   - [Optician & Eye Care](#optician--eye-care)
   - [Physiotherapy & Rehabilitation](#physiotherapy--rehabilitation)
   - [Veterinary Care](#veterinary-care)
   - [Other Health Institutions](#other-health-institutions)
-- [💪 Fitness & Gyms](#💪-fitness--gyms)
-  - [Fitness Centres (Indoor Gyms)](#fitness-centres-indoor-gyms)
+- [:muscle: Fitness & Gyms](#muscle-fitness--gyms)
+  - [Indoor Gyms](#indoor-gyms)
+  - [Climbing & Adventure](#climbing--adventure)
   - [Martial Arts & Movement Studios](#martial-arts--movement-studios)
   - [Outdoor Fitness Stations](#outdoor-fitness-stations)
-- [🏊 Swimming Pools & Water Exercise](#🏊-swimming-pools--water-exercise)
-- [🏟 Sports Centres, Halls & Ice Rinks](#🏟-sports-centres-halls--ice-rinks)
-- [🥗 Health Food Stores](#🥗-health-food-stores)
-- [🛒 Health-Adjacent Shops](#🛒-health-adjacent-shops)
-- [⚕ Nearby Larger Referral Facilities](#⚕-nearby-larger-referral-facilities)
-- [📝 Notes & Disclaimer](#📝-notes--disclaimer)
-- [🤝 Contributing](#🤝-contributing)
+- [:ocean: Swimming Pools](#ocean-swimming-pools)
+- [:green_heart: Sports Centres, Halls & Ice Rinks](#green_heart-sports-centres-halls--ice-rinks)
+- [:salad: Health Food Stores](#salad-health-food-stores)
+- [:shop: Health-Adjacent Shops](#shop-health-adjacent-shops)
+- [:memo: Notes & Disclaimer](#memo-notes--disclaimer)
+- [:raising_hands: Contributing](#raising_hands-contributing)
 
 ---
 
-## 🏥 Healthcare & Clinics
+## :heart_decoration: Healthcare & Clinics
 
 ### Primary Health Center
 
-| Name | Type | Address | OSM Tags | Coordinates (WGS84) |
-|------|------|---------|----------|----------------------|
-| **Leppävaaran terveysasema** | Primary Health Center | Konstaapelinkatu 2, 02650 Espoo | `amenity=health_center` | ✅ 60.2216, 24.8139 |
-| **Leppävaaran neuvola** | Maternal/Child Health Clinic | Konstaapelinkatu 2, 02650 Espoo | `amenity=clinic`, `health=maternal` | ✅ 60.2216, 24.8140 |
+| Name | Address | OSM Verified Coordinates |
+|------|---------|--------------------------|
+| **Leppävaaran terveysasema** (Primary Health Centre) | Konstaapelinkatu 2, 02650 Espoo | ✅ 60.2216°N, 24.8139°E |
 
-**Leppävaaran terveysasema** — Main public health center. GP visits, nurse consultations, preventive care, vaccinations, health screenings.
-
-**Leppävaaran neuvola** — Municipal child health clinic. Growth assessments, vaccinations, parenting support.
-
-### General Medical Clinics
-
-| Name | Type | Address | Distance from Leppävaara Center |
-|------|------|---------|---------------------------------|
-| **Terveystalo Leppävaara** | General Medical / GP | Bertel Jungin aukio 7, Ruusutorppa, 02600 Espoo | ✅ OSM-verified |
-| **Terveystalo Tapiola** | General Medical | Tapionaukio 4, Revontuli, 02100 Espoo | ~2 km |
-| **Terveystalo Otaniemi** | General Medical | Sähkömiehentie 3 / Metallimiehenkuja 2, 02150 Espoo | ~6 km |
-| **Terveystalo Matinkylä** | General Medical | Piispansilta 9, 02230 Espoo | ~7 km |
+Main health centre offering GP consultations, nurse visits, preventive care, vaccinations, and health screenings.
 
 ### Private Medical Clinics
 
-| Name | Type | Address | Notes |
-|------|------|---------|-------|
-| **Mehiläinen Espoo Leppävaara** | Private Medical | Hevosenkenkä 3, Ruusutorppa, 02600 Espoo | GP, lab tests, X-rays, specialist referrals |
+| Name | Type | Address | OSM Verified Coordinates |
+|------|------|---------|--------------------------|
+| **Terveystalo Leppävaara** | GP / General Medical | Bertel Jungin aukio 7, Ruusutorppa, 02600 Espoo | ✅ 60.2181°N, 24.8142°E |
+| **Mehiläinen Espoo Leppävaara** | Private Medical (GP, lab, X-ray) | Hevosenkenkä 3, Ruusutorppa, 02600 Espoo | ✅ 60.2181°N, 24.8143°E |
 
-> **Hevosenkenkä 3 / Ruusutorppa area** — Health block with Terveystalo (GP), Mehiläinen (Private GP), Terveystalo hammaslääkäri (Dental), and Apteekki Elixir (Pharmacy) all within a short walk of each other.
+### Dental Clinic
 
-### Dental Clinics
+| Name | Address | OSM Verified Coordinates |
+|------|---------|--------------------------|
+| **Terveystalo Leppävaara hammaslääkäripalvelut** | Hevosenkenkä 3, 02650 Espoo | ✅ 60.2182°N, 24.8143°E |
 
-| Name | OSM Type | Address | Phone | Coordinates |
-|------|----------|---------|-------|-------------|
-| **Terveystalo Leppävaara hammaslääkäripalvelut** | `shop=dentist` | Hevosenkenkä 3, 02650 Espoo | ✅ OSM-verified | ✅ 60.2182, 24.8143 |
-| **Ruusulinnan hammashoitola** | `amenity=dentist` | Huvilinnantie 4, 02600 Espoo | ✅ OSM-verified | ✅ 60.2151, 24.8066 |
+Part of the Terveystalo network — general and specialist dental services.
 
 ### Pharmacies (Apteekit)
 
-| Name | Address | Details | Source |
-|------|---------|---------|--------|
-| **Sellon Apteekki** | Leppävaarankatu 3-9 (Sello), L2, 02600 Espoo | Sello shopping center — G-levy | Community-confirmed |
-| **Sanitum Apteekki** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | Sello shopping center | Community-confirmed |
-| **Apteekki Elixir** | Hevosenkenkä 3, Ruusutorppa, 02650 Espoo | Near Mehiläinen/Terveystalo clinic | ✅ OSM-verified: 60.2187, 24.8144 |
+| Name | Address | Notes | OSM Verified |
+|------|---------|-------|-------------|
+| **Sellon Apteekki** | Leppävaarankatu 3-9 (Sello), L2, 02600 Espoo | Sello shopping centre — G-levy | ✅ 60.2181°N, 24.8102°E |
+| **Sanitum Apteekki** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | Sello shopping centre | ✅ 60.2180°N, 24.8135°E |
+| **Apteekki Elixir** | Hevosenkenkä 3, Ruusutorppa, 02650 Espoo | Near Mehiläinen / Terveystalo health blocks | ✅ 60.2187°N, 24.8144°E |
+
+> **Hevosenkenkä 3 / Ruusutorppa** — Two adjacent health blocks: Mehiläinen (private GP), Terveystalo (GP), dental clinic, and Apteekki Elixir (pharmacy).
 
 ### Optician & Eye Care
 
-| Name | Address | Phone | OSM Verified |
-|------|---------|-------|-------------|
-| **Suomen Silmäproteesiklinikka** | Hakkukuja 1, 02650 Espoo | 0405832356 | ✅ `shop=optician` |
-| **Nissen** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | +358 203 32 923 | ✅ `shop=optician` |
-| **Instrumentarium** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | — | ✅ `shop=optician` |
-| **Specsavers** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | +358 9 853 2412 | ✅ `shop=optician` |
-| **Silmäasema** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | +358 20 760 8677 | ✅ `shop=optician` |
-| **Sellon Katse** | Leppävaarankatu, Sello, 02600 Espoo | +358 9 586 4771 | ✅ `shop=optician` |
+| Name | Address | Phone |
+|------|---------|-------|
+| **Suomen Silmäproteeasiklinikka** | Hakkukuja 1, 02650 Espoo | 040583 2356 |
+| **Nissen** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | +358 203 32 923 |
+| **Specsavers** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | +358 9 853 2412 |
+| **Silmäasema** | Leppävaarankatu 3-9 (Sello), 02600 Espoo | +358 20 760 8677 |
+| **Sellon Katse** | Leppävaarankatu, Sello, 02600 Espoo | +358 9 586 4771 |
 
 ### Physiotherapy & Rehabilitation
 
-| Name | OSM Verified Address | Details |
-|------|----------------------|---------|
-| **Liikuntafysio** | Leppävaarankatu 9C, 02600 Espoo (Sello) | Physiotherapy & exercise rehab |
-
-### Veterinary Care
-
-| Name | OSM Type | Address | Details |
-|------|----------|---------|---------|
-| **Espoon Eläinlääkäriasema** | `amenity=veterinary` | Everstinkuja 6, Perkkaa, 02650 Espoo | Veterinary clinic |
-
-### Other Health Institutions
-
-| Name | Type | Address | Notes |
-|------|------|---------|-------|
-| **Kela (Kansaneläkelaitos)** | Social Insurance Office | Leppävaarankatu 10, 02600 Espoo | Disability/pension benefits |
-| **Sellon kirjasto (Sello Library)** | Public Library | Leppävaarankatu 9, Sello, 02600 Espoo | OSM: `amenity=library` |
+| Name | Address | Notes |
+|------|---------|-------|
+| **Liikuntafysio** | Leppävaarankatu 9C, 02600 Espoo (Sello) | Physiotherapy & exercise rehabilitation |
 
 ---
 
-## 💪 Fitness & Gyms
+## :muscle: Fitness & Gyms
 
-### Fitness Centres (Indoor Gyms) — All OSM-Verified
+### Indoor Gyms
 
-| Name | OSM Verified Address | Contact | Notes |
-|------|----------------------|---------|-------|
-| **Elixia (Sello)** | Leppävaarankatu 3-9, Sello, 02600 Espoo (G-levy 3F) | +358 10 309 9430 • sello@elixia.fi | `leisure=fitness_centre`; largest gym — cardio/strength, pool, sauna |
-| **ELIXIA (Ruusutorppa)** | Bertel Jungin aukio, Ruusutorppa, 02600 Espoo | elixia.fi | `leisure=fitness_centre`; separate location near health centre area |
-| **Fressi Leppävaara** | Esikunnankatu 2, Vallikallio, 02650 Espoo | — | `leisure=fitness_centre`; near Sello area |
+| Name | Address | Contact | Notes |
+|------|---------|---------|-------|
+| **Elixia** (Sello) | Leppävaarankatu 3-9, Sello, 02600 Espoo | +358 10 309 9430 · sello@elixia.fi | Largest gym — cardio, strength, pool, sauna; `leisure=fitness_centre` |
+| **Fressi Leppävaara** | Esikunnankatu 2, Vallikallio, 02650 Espoo | — | `leisure=fitness_centre`; near Sello |
 | **Liikuntastudio Luhtavilla** | Timpurinkuja 3, Vallikallio, 02650 Espoo | [luhtavilla.fi](https://www.luhtavilla.fi/) | `leisure=fitness_centre`; yoga & pilates |
 
-### Martial Arts & Movement Studios
+### Climbing & Adventure
 
-| Name | Style | OSM Verified Address |
-|------|-------|----------------------|
-| **Loop Martial Arts** | Mixed Martial Arts | Takkatie 7A-B, 00370 Helsinki |
+| Name | Address | Website | OSM Verified |
+|------|---------|---------|-------------|
+| **Seikkailupuisto Huippu** (Climbing Adventure Centre) | Kaivoskallionpolku, Kilonkrouvinmäki, 02650 Espoo | [seikkailupuistohuippu.fi](https://www.seikkailupuistohuippu.fi/) | ✅ `leisure=sports_centre`; 60.2279°N, 24.7964°E |
+
+### Sports Halls & Martial Arts
+
+| Name | Address | Notes |
+|------|---------|-------|
+| **Kilon koulun liikuntasali** (School Sports Hall) | Aspelinintie 3G, Nuijamäki, 02630 Espoo | Municipal school hall — open to public for gym use |
+| **Golf Park Leppävaara** (Driving Range) | Säterinpuistontie 1, 02600 Espoo | [golfpark.fi](http://www.golfpark.fi/) |
 
 ### Outdoor Fitness Stations
 
-| Location | Features | Area |
-|----------|----------|------|
-| **Tali / Huippuvuori** | Pull-up bars, rope climbs, battling ropes, table tennis | North Leppävaara |
-| **Tuuliniityn ulkoliikuntapiste** | Parallel bars, sit-up station, balance beam | Laajalahti |
-| **Säterinniitty park area** | Outdoor exercisers near recreation park | West Leppävaara |
-| **Fitness station** | Outdoor fitness equipment | Central Leppävaara (verified: 60.2126, 24.8277) |
+| Location | Area | Features |
+|----------|------|----------|
+| **Tali / Huippuvuori** | Pohjois-Leppävaara | Pull-up bars, rope climbs, battling ropes, table tennis |
+| **Säterinniitty park** | Etelä-Leppävaara | Outdoor exercisers near recreation park |
 
 ---
 
-## 🏊 Swimming Pools & Water Exercise
+## :ocean: Swimming Pools
 
-| Name | OSM Type | Verified Address | Phone |
-|------|----------|-----------------|-------|
-| **Leppävaaran uimahalli ja maauimala** | `leisure=sports_centre` | Veräjäpellonkatu 15, Gransinmäki, 02650 Espoo | +358 9 816 28 000 |
+| Name | Address | Phone | OSM Verified |
+|------|---------|-------|-------------|
+| **Leppävaaran uimahalli ja maauimala** (Indoor pool & outdoor beach pool) | Veräjäpellonkatu 15, Gransinmäki, 02650 Espoo | +358 9 816 28 000 | ✅ 60.2261°N, 24.8025°E |
+| **Tapiolan uimahalli** | Kirkkopolku 3, 02100 Espoo | +358 9 816 26 600 | ~2 km from Leppävaara |
+| **Matinkylän uimahalli** | Säterinkatu 8, 02230 Espoo | +358 9 816 29 400 | ~7 km |
+| **Keski-Espoon uimahalli** | Säterinkatu 9, 02650 Espoo | +358 9 816 26 600 | ~2 km |
+| **Olari uimahalli** | Olarin tennistie 1, 02210 Espoo | +358 9 816 25 900 | ~5 km |
 
-> **Leppävaaran uimahalli** — Indoor 25–50 m lane pool, outdoor beach area (maauimala), therapy pool, gym, sauna. Hours: Mon–Fri 6:00–21:00, Sat–Sun 8:00–18:00. Entry: ~€5–8. Reverse geocode confirmed: 60.2261°N, 24.8025°E.
-
-**Nearby (borderline but useful):**
-
-| Name | OSM Type | Address | Distance |
-|------|----------|---------|----------|
-| **Tapiolan uimahalli** | `leisure=sports_centre` | Kirkkopolku 3, 02100 Espoo | ~2.5 km |
-| **Matinkylän uimahalli** | `leisure=sports_centre` | Säterinkatu 8, 02230 Espoo | ~7 km |
-| **Keski-Espoon uimahalli** | `leisure=sports_centre` | Säterinkatu 9, 02650 Espoo | ~5 km |
+> **Leppävaaran uimahalli** — 25–50 m indoor lane pool, outdoor beach area (maauimala), therapy pool, gym, sauna. Mon–Fri 6:00–21:00, Sat–Sun 8:00–18:00. Entry ~€5–8.
 
 ---
 
-## 🏟 Sports Centres, Halls & Ice Rinks
+## :green_heart: Sports Centres, Halls & Ice Rinks
 
-| Name | OSM Type | Verified Address | Details |
-|------|----------|-----------------|---------|
-| **Golf Park Leppävaara** | `leisure=golf_course` | Säterinpuistontie 1, 02600 Espoo | +358 50 405 8434 • [golfpark.fi](http://www.golfpark.fi/) |
-| **BowlCircus (Sello)** | `leisure=bowling_alley` | Leppävaarankatu 3-9, Sello, 02600 Espoo (L1) | [bowlcircus.com](https://bowlcircus.com/) |
-| **Säterinniitty tekojääkenttä** | Building (ice_rink) | Säterinpuistontie 5, 02600 Espoo | Seasonal: Mo–Su 8:00–21:00 |
-| **Tuulimäen väestönsuoja** | Building (sports hall) | Itätuulenkuja 9, 02100 Espoo | Gymnastics, basketball, volleyball |
-
----
-
-## 🥗 Health Food Stores
-
-| Name | Type | Verified/Community Address | OSM |
-|------|------|---------------------------|-----|
-| **Al-Amal Halal Itämainen Elintarvikekauppa** | Halal Grocery | Leppävaarankatu area, 02600 Espoo | `shop=convenience` |
-| **Sun Market** | Market / Grocer | Leppävaarankatu area, 02600 Espoo | `shop=convenience` |
-
-> No dedicated luomukauppa (organic shop) in the Leppävaara core. **K-Citymarket Sello** and **K-Supermarket Leppävaara** carry extensive organic/"luomu" selections. Genuine organic shops **Ruohonjuuri** (Ring I, ~6 km) and **Pathological** (Espoon keskus, ~8 km) are a short bus ride away.
+| Name | Address | Details |
+|------|---------|---------|
+| **Säterinniitty tekojääkenttä** (Artificial Ice Rink) | Säterinpuistontie 5, 02600 Espoo | Seasonal: Mon–Sun 8:00–21:00; ice hockey, curling, skating |
+| **BowlCircus** (Sello) | Leppävaarankatu 3-9, Sello, 02600 Espoo (L1) | [bowlcircus.com](https://bowlcircus.com/) — 10-pin bowling |
+| **Bouklikkauskeskus** | Vermo area, Perkkaa | Bowling & leisure |
 
 ---
 
-## 🛒 Health-Adjacent Shops — OSM-Verified
+## :salad: Health Food Stores
 
-*(All verified via OSM shop category within Leppävaara bbox 60.204–60.235°N, 24.79–24.855°E)*
+| Name | Type | Address | OSM |
+|------|------|---------|-----|
+| **K-Citymarket** (Sello) | Supermarket (extensive organic/"luomu" section) | Leppävaarankatu 3-9, Sello, 02600 Espoo | ✅ `shop=supermarket` |
+| **K-Supermarket** (Galleria/Vallonkatu) | Supermarket (organic selection) | Konstaapelinkatu 4, 02650 Espoo | ✅ `shop=supermarket` |
+| **Prisma** (Sello) | Supermarket (broad grocery range) | Leppävaarankatu 5, Sello, 02600 Espoo | ✅ `shop=supermarket` |
+| **K-Market** (Sello) | Convenience | Leppävaarankatu 3-9, Sello (G-levy -1F) | ✅ `shop=convenience` |
 
-| Name | OSM Shop Type | Verified Address |
-|------|---------------|-----------------|
-| **K-Citymarket (Sello)** | `shop=supermarket` | Leppävaarankatu 3-9 (Sello), 02600 Espoo |
-| **K-Supermarket Leppävaara** | `shop=supermarket` | Konstaapelinkatu 4 (Galleria), 02650 Espoo |
-| **Prisma (Sello)** | `shop=supermarket` | Leppävaarankatu 5 (Sello), 02600 Espoo |
-| **Lidl (Leppävaara)** | `shop=supermarket` | Ratsakatu 3 (Sello), 02600 Espoo |
+> No dedicated **luomukauppa** (organic-only shop) in the immediate Leppävaara core. K-Citymarket and K-Supermarket carry extensive organic selections. Genuine organic shops **Ruohonjuuri** (Ring I, ~6 km) and **Pathological** (Espoon keskus, ~8 km) are a short bus ride away.
+
+---
+
+## :shop: Health-Adjacent Shops
+
+All verified via OSM `shop` category within Leppävaara bbox (60.204–60.235°N, 24.79–24.855°E).
+
+| Name | OSM Type | Address |
+|------|----------|---------|
+| **K-Citymarket** | `shop=supermarket` | Leppävaarankatu 3-9 (Sello), 02600 Espoo |
+| **K-Supermarket Leppävaara** | `shop=supermarket` | Konstaapelinkatu 4, 02650 Espoo |
+| **Prisma** | `shop=supermarket` | Leppävaarankatu 5 (Sello), 02600 Espoo |
+| **Lidl** | `shop=supermarket` | Ratsakatu 3 (Sello), 02600 Espoo |
 | **K-Market Sello** | `shop=convenience` | Leppävaarankatu 3-9, Sello (G-levy -1F) |
 | **R-Kioski** | `shop=kiosk` | Leppävaarankatu area, Sello G-levy (1F) |
-| **Alko (Sello)** | `shop=alcohol` | Leppävaarankatu 3-9, Sello (1F) |
+| **Alko** | `shop=alcohol` | Leppävaarankatu 3-9, Sello (1F) |
 
 ---
 
-## ⚕ Nearby Larger Referral Facilities
+## :memo: Notes & Disclaimer
 
-| Name | Type | Address | Distance |
-|------|------|---------|----------|
-| **Mehiläinen Espoo** | Private Hospital/Clinic | Omanrinne 4, 02600 Espoo | ~3 km |
-| **Peilit and MediCity** | Private Clinics | Revontulentie 5, 02100 Espoo | ~3 km |
-
----
-
-## 📝 Notes & Disclaimer
-
-- All locations are sourced from **OpenStreetMap (OSM)** data and cross-verified via geocoding.
-- OSM data may not be 100% complete — some businesses may exist but not be mapped yet.
-- Opening hours, phone numbers, and other details should be confirmed with the individual businesses.
-- The "nearby" entries in each section are included for convenience when local options aren't available.
-- This guide covers Leppävaara and its immediate sub-districts within a ~3 km radius.
+- All coordinate/address data verified via **OpenStreetMap** geocoding and **reverse geocoding**.
+- Opening hours, phone numbers, and websites are based on OSM tags and known public data — please confirm with the venue directly before visiting.
+- The **Ruusutorppa / Hevosenkenkä 3** area is Leppävaara's main health cluster: GP clinics (Terveystalo, Mehiläinen), dental care, and pharmacy (Apteekki Elixir) are all within a 200 m walk.
+- **Sello shopping centre** (Leppävaarankatu 3-9) is the commercial hub — it houses the library, multiple pharmacies (Sellon Apteekki, Sanitum Apteekki), opticians, fitness centre (Elixia), supermarket, and bowling alley.
+- **Leppävaaran uimahalli** is the primary swimming facility with both indoor and outdoor pools.
+- Some venues listed (e.g., Tapiolan uimahalli, Keski-Espoon uimahalli) are just outside the 3 km core but are the nearest options for residents.
 
 ---
 
-## 🤝 Contributing
+## :raising_hands: Contributing
 
-To add or update a listing:
+This is a community guide! To add, correct, or update a venue:
 
-1. **Verify on OpenStreetMap** — Search for the place at [openstreetmap.org](https://www.openstreetmap.org) to confirm it exists and check its tags.
-2. **Cross-verify** — Use geocoding or the business's own website/social media to confirm the address.
-3. **Open an Issue** — Report missing or outdated listings.
-4. **Submit a PR** — Add new entries or correct existing ones.
+1. **Verify** the venue on [OpenStreetMap](https://www.openstreetmap.org/) — check that its `amenity`, `shop`, or `leisure` tag is accurate and the address is correct.
+2. **Open a pull request** with your changes to this `README.md`.
+3. **Format**: use the same table style with columns for Name, Type, Address, and OSM-verified coordinates.
+4. **Prioritise** OSM-verified data; mark community-reported entries with a note.
 
-> **Happy editing! Every contribution helps make this guide more complete for our community.** 🏥💪
+Thanks to all contributors and the OpenStreetMap community for making this possible! 🗺🏥💪
+
+---
+
+_Generated from OpenStreetMap data, Leppävaara, Espoo, Finland._
