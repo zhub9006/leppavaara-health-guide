@@ -1,1 +1,240 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Leppävaaran terveysasema", "category": "primary_health_center", "address": "Konstaapelinkatu 2, Vallikallio, 02650 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2216, "lon": 24.8139}}, "geometry": {"type": "Point", "coordinates": [24.8139, 60.2216]}}, {"type": "Feature", "properties": {"name": "Terveystalo Leppävaara", "category": "private_clinic", "address": "Bertel Jungin aukio 7, Ruusutorppa, 02600 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.217, "lon": 24.8149}}, "geometry": {"type": "Point", "coordinates": [24.8149, 60.217]}}, {"type": "Feature", "properties": {"name": "Mehiläinen Espoo Leppävaara", "category": "private_clinic", "address": "Hevosenkenkä 3, Ruusutorppa, 02600 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2178, "lon": 24.8143}}, "geometry": {"type": "Point", "coordinates": [24.8143, 60.2178]}}, {"type": "Feature", "properties": {"name": "Terveystalo Leppävaara hammaslääkäripalvelut", "category": "dental", "address": "Hevosenkenkä 3, 02650 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2182, "lon": 24.8143}}, "geometry": {"type": "Point", "coordinates": [24.8143, 60.2182]}}, {"type": "Feature", "properties": {"name": "Sellon Apteekki", "category": "pharmacy", "address": "Leppävaarankatu 3-9 (Sello), L2, 02600 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2181, "lon": 24.8102}}, "geometry": {"type": "Point", "coordinates": [24.8102, 60.2181]}}, {"type": "Feature", "properties": {"name": "Sanitum Apteekki", "category": "pharmacy", "address": "Alberganpromenadi, Ruusutorppa, 02600 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.218, "lon": 24.8135}}, "geometry": {"type": "Point", "coordinates": [24.8135, 60.218]}}, {"type": "Feature", "properties": {"name": "Apteekki Elixir", "category": "pharmacy", "address": "Hevosenkenkä 3, Ruusutorppa, 02650 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2187, "lon": 24.8144}}, "geometry": {"type": "Point", "coordinates": [24.8144, 60.2187]}}, {"type": "Feature", "properties": {"name": "Suomen Silmäproteeasiklinikka", "category": "optician", "address": "Hakkukuja 1, 02650 Espoo", "phone": "040583 2356", "website": null, "osm_coords": {"lat": 60.219, "lon": 24.813}}, "geometry": {"type": "Point", "coordinates": [24.813, 60.219]}}, {"type": "Feature", "properties": {"name": "Nissen", "category": "optician", "address": "Leppävaarankatu 3-9 (Sello), 02600 Espoo", "phone": "+358 203 32 923", "website": null, "osm_coords": {"lat": 60.2181, "lon": 24.8102}}, "geometry": {"type": "Point", "coordinates": [24.8102, 60.2181]}}, {"type": "Feature", "properties": {"name": "Specsavers", "category": "optician", "address": "Leppävaarankatu 3-9 (Sello), 02600 Espoo", "phone": "+358 9 853 2412", "website": null, "osm_coords": {"lat": 60.2181, "lon": 24.8102}}, "geometry": {"type": "Point", "coordinates": [24.8102, 60.2181]}}, {"type": "Feature", "properties": {"name": "Liikuntafysio", "category": "physiotherapy", "address": "Leppävaarankatu 9C, 02600 Espoo (Sello)", "phone": null, "website": null, "osm_coords": {"lat": 60.2185, "lon": 24.81}}, "geometry": {"type": "Point", "coordinates": [24.81, 60.2185]}}, {"type": "Feature", "properties": {"name": "Elixia", "category": "gym", "address": "Leppävaarankatu 3-9, Sello, 02600 Espoo", "phone": "+358 10 309 9430", "website": "https://www.elixia.fi/", "osm_coords": {"lat": 60.2181, "lon": 24.8102}}, "geometry": {"type": "Point", "coordinates": [24.8102, 60.2181]}}, {"type": "Feature", "properties": {"name": "Fressi Leppävaara", "category": "gym", "address": "Esikunnankatu 2, Vallikallio, 02650 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.221, "lon": 24.814}}, "geometry": {"type": "Point", "coordinates": [24.814, 60.221]}}, {"type": "Feature", "properties": {"name": "Liikuntastudio Luhtavilla", "category": "gym", "address": "Timpurinkuja 3, Vallikallio, 02650 Espoo", "phone": null, "website": "https://www.luhtavilla.fi/", "osm_coords": {"lat": 60.223, "lon": 24.816}}, "geometry": {"type": "Point", "coordinates": [24.816, 60.223]}}, {"type": "Feature", "properties": {"name": "Seikkailupuisto Huippu", "category": "climbing", "address": "Kaivoskallionpolku, Kilonkrouvinmäki, 02650 Espoo", "phone": null, "website": "https://www.seikkailupuistohuippu.fi/", "osm_coords": {"lat": 60.2279, "lon": 24.7964}}, "geometry": {"type": "Point", "coordinates": [24.7964, 60.2279]}}, {"type": "Feature", "properties": {"name": "Boulderkeskus Konala", "category": "climbing", "address": "Ruosilantie 1, 00390 Helsinki", "phone": "+358445504154", "website": "https://www.boulderkeskus.com/", "osm_coords": {"lat": 60.2368, "lon": 24.8589}}, "geometry": {"type": "Point", "coordinates": [24.8589, 60.2368]}}, {"type": "Feature", "properties": {"name": "KiipeilyAreena Ristikko", "category": "climbing", "address": "Ajomiehentie 1, 00390 Helsinki", "phone": "+358447455291", "website": "https://kiipeilyareena.com/", "osm_coords": {"lat": 60.2393, "lon": 24.8494}}, "geometry": {"type": "Point", "coordinates": [24.8494, 60.2393]}}, {"type": "Feature", "properties": {"name": "Loop Martial Arts", "category": "martial_arts", "address": "Takkatie 7A-B, 00370 Helsinki", "phone": null, "website": "https://www.loopmartialarts.fi/", "osm_coords": {"lat": 60.2228, "lon": 24.8542}}, "geometry": {"type": "Point", "coordinates": [24.8542, 60.2228]}}, {"type": "Feature", "properties": {"name": "Kilon talli", "category": "horse_riding", "address": "Kilonkartanontie 4, 02610 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2212, "lon": 24.7909}}, "geometry": {"type": "Point", "coordinates": [24.7909, 60.2212]}}, {"type": "Feature", "properties": {"name": "Leppävaaran Ratsastuskoulu", "category": "horse_riding", "address": "Maneesipolku 4, 02620 Espoo", "phone": "09 596 393", "website": "https://www.leppavaaranratsastuskoulu.fi/", "osm_coords": {"lat": 60.2366, "lon": 24.7847}}, "geometry": {"type": "Point", "coordinates": [24.7847, 60.2366]}}, {"type": "Feature", "properties": {"name": "Leppävaaran urheiluhalli", "category": "sports_hall", "address": "Veräjänpieli, Gransinmäki, Pohjois-Leppävaara, 02650 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2257, "lon": 24.8076}}, "geometry": {"type": "Point", "coordinates": [24.8076, 60.2257]}}, {"type": "Feature", "properties": {"name": "Säterinniitty tekojääkenttä", "category": "ice_rink", "address": "Säterinpuistontie 5, 02600 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.22, "lon": 24.795}}, "geometry": {"type": "Point", "coordinates": [24.795, 60.22]}}, {"type": "Feature", "properties": {"name": "Leppävaaran uimahalli ja maauimala", "category": "swimming_pool", "address": "Veräjäpellonkatu 15, Gransinmäki, Pohjois-Leppävaara, 02650 Espoo", "phone": "+358 9 816 28 000", "website": null, "osm_coords": {"lat": 60.2261, "lon": 24.8025}}, "geometry": {"type": "Point", "coordinates": [24.8025, 60.2261]}}, {"type": "Feature", "properties": {"name": "Keski-Espoon uimahalli", "category": "swimming_pool", "address": "Säterinkatu 9, 02650 Espoo", "phone": "+358 9 816 26 600", "website": null, "osm_coords": {"lat": 60.223, "lon": 24.79}}, "geometry": {"type": "Point", "coordinates": [24.79, 60.223]}}, {"type": "Feature", "properties": {"name": "Tapiolan uimahalli", "category": "swimming_pool", "address": "Kirkkopolku 3, 02100 Espoo", "phone": "+358 9 816 26 600", "website": null, "osm_coords": {"lat": 60.208, "lon": 24.811}}, "geometry": {"type": "Point", "coordinates": [24.811, 60.208]}}, {"type": "Feature", "properties": {"name": "Matinkylän uimahalli", "category": "swimming_pool", "address": "Säterinkatu 8, 02230 Espoo", "phone": "+358 9 816 29 400", "website": null, "osm_coords": {"lat": 60.21, "lon": 24.785}}, "geometry": {"type": "Point", "coordinates": [24.785, 60.21]}}, {"type": "Feature", "properties": {"name": "Olari uimahalli", "category": "swimming_pool", "address": "Olarin tennistie 1, 02210 Espoo", "phone": "+358 9 816 25 900", "website": null, "osm_coords": {"lat": 60.208, "lon": 24.76}}, "geometry": {"type": "Point", "coordinates": [24.76, 60.208]}}, {"type": "Feature", "properties": {"name": "Golf Park Leppävaara", "category": "golf", "address": "Säterinpuistontie 1, 02600 Espoo", "phone": "+358 50 405 8434", "website": "http://www.golfpark.fi/", "osm_coords": {"lat": 60.2182, "lon": 24.8}}, "geometry": {"type": "Point", "coordinates": [24.8, 60.2182]}}, {"type": "Feature", "properties": {"name": "K-Citymarket", "category": "health_food_store", "address": "Leppävaarankatu 3-9 (Sello), 02600 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2178, "lon": 24.8099}}, "geometry": {"type": "Point", "coordinates": [24.8099, 60.2178]}}, {"type": "Feature", "properties": {"name": "K-Supermarket", "category": "health_food_store", "address": "Konstaapelinkatu 4, Vallikallio, 02650 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2213, "lon": 24.8125}}, "geometry": {"type": "Point", "coordinates": [24.8125, 60.2213]}}, {"type": "Feature", "properties": {"name": "Prisma", "category": "health_food_store", "address": "Leppävaarankatu 5 (Sello), 02600 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2178, "lon": 24.8105}}, "geometry": {"type": "Point", "coordinates": [24.8105, 60.2178]}}, {"type": "Feature", "properties": {"name": "Life", "category": "health_food_store", "address": "Leppävaarankatu 3-9 (Sello), 02600 Espoo", "phone": null, "website": null, "osm_coords": {"lat": 60.2181, "lon": 24.8102}}, "geometry": {"type": "Point", "coordinates": [24.8102, 60.2181]}}]}
+{
+  "type": "FeatureCollection",
+  "name": "leppavaara-health-places",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leppävaaran terveysasema",
+        "category": "primary_health_center",
+        "address": "Konstaapelinkatu 2, Vallikallio, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8139, 60.2216]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terveystalo Leppävaara",
+        "category": "private_clinic",
+        "address": "Bertel Jungin aukio 7, Ruusutorppa, 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8149, 60.2170]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mehiläinen Espoo Leppävaara",
+        "category": "private_clinic",
+        "address": "Hevosenkenkä 3, Ruusutorppa, 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8143, 60.2178]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terveystalo Leppävaara hammaslääkäripalvelut",
+        "category": "dental",
+        "address": "Hevosenkenkä 3, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8143, 60.2182]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sellon Apteekki",
+        "category": "pharmacy",
+        "address": "Leppävaarankatu 3-9 (Sello), L2, 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8102, 60.2181]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanitum Apteekki",
+        "category": "pharmacy",
+        "address": "Alberganpromenadi, Ruusutorppa, 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8135, 60.2180]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apteekki Elixir",
+        "category": "pharmacy",
+        "address": "Hevosenkenkä 3, Ruusutorppa, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8144, 60.2187]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elixia",
+        "category": "gym",
+        "address": "Leppävaarankatu 3-9, Sello, 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8102, 60.2181]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fressi Leppävaara",
+        "category": "gym",
+        "address": "Esikunnankatu 2, Vallikallio, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8140, 60.2210]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liikuntastudio Luhtavilla",
+        "category": "gym",
+        "address": "Timpurinkuja 3, Vallikallio, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8160, 60.2230]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seikkailupuisto Huippu",
+        "category": "climbing",
+        "address": "Kaivoskallionpolku, Kilonkrouvinmäki, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.7964, 60.2279]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulderkeskus Konala",
+        "category": "climbing",
+        "address": "Ruosilantie 1, 00390 Helsinki"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8589, 60.2368]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KiipeilyAreena Ristikko",
+        "category": "climbing",
+        "address": "Ajomiehentie 1, 00390 Helsinki"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8494, 60.2393]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loop Martial Arts",
+        "category": "martial_arts",
+        "address": "Takkatie 7A-B, 00370 Helsinki"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8542, 60.2228]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leppävaaran urheiluhalli",
+        "category": "sports_hall",
+        "address": "Veräjänpieli, Gransinmäki, Pohjois-Leppävaara, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8076, 60.2257]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Säterinniitty tekojääkenttä",
+        "category": "ice_rink",
+        "address": "Säterinpuistontie 5, 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.7950, 60.2200]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leppävaaran uimahalli ja maauimala",
+        "category": "swimming_pool",
+        "address": "Veräjäpellonkatu 15, Gransinmäki, Pohjois-Leppävaara, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8025, 60.2261]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keski-Espoon uimahalli",
+        "category": "swimming_pool",
+        "address": "Säterinkatu 9, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.7900, 60.2230]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapiolan uimahalli",
+        "category": "swimming_pool",
+        "address": "Kirkkopolku 3, 02100 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8110, 60.2080]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matinkylän uimahalli",
+        "category": "swimming_pool",
+        "address": "Säterinkatu 8, 02230 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.7850, 60.2100]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olari uimahalli",
+        "category": "swimming_pool",
+        "address": "Olarin tennistie 1, 02210 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.7600, 60.2080]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golf Park Leppävaara",
+        "category": "golf",
+        "address": "Säterinpuistontie 1, 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8000, 60.2182]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K-Citymarket",
+        "category": "health_food_store",
+        "address": "Leppävaarankatu 3-9 (Sello), 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8099, 60.2178]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K-Supermarket",
+        "category": "health_food_store",
+        "address": "Konstaapelinkatu 4, Vallikallio, 02650 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8125, 60.2213]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prisma",
+        "category": "health_food_store",
+        "address": "Leppävaarankatu 5 (Sello), 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8105, 60.2178]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Life",
+        "category": "health_food_store",
+        "address": "Leppävaarankatu 3-9 (Sello), 02600 Espoo"
+      },
+      "geometry": {"type": "Point", "coordinates": [24.8102, 60.2181]}
+    }
+  ]
+}
