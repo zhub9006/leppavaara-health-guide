@@ -132,7 +132,7 @@ A community resource guide for Leppävaara residents, listing all health-related
 
 > 🏊 **Leppävaaran uimahalli** — Local pool: 25–50 m indoor lane pool, outdoor **maauimala**, therapy pool, gym, saunas. Mon–Fri 6:00–21:00, Sat–Sun 8:00–18:00. Entry ~€5–8.
 
-> 🏒 **Säterinniitty tekojääkenttä** — Seasonal artificial ice rink for ice hockey, curling, and public skating.
+> 🥒 **Säterinniitty tekojääkenttä** — Seasonal artificial ice rink for ice hockey, curling, and public skating.
 
 ### Climbing & Adventure Sports
 
@@ -211,102 +211,86 @@ A community resource guide for Leppävaara residents, listing all health-related
 
 ## Health Cluster Map
 
-Based on OSM data, three dense health-service clusters exist in Leppävaara:
+Based on OSM data and local knowledge, Leppävaara's health & wellness venues cluster around **three key hubs**:
 
-### 🔵 Cluster 1: Sello (South Leppävaara)
-The largest cluster — a 200 m radius around Sello shopping centre (Leppävaarankatu 3-9). Contains:
-- 2 pharmacies (Sellon Apteekki, Sanitum Apteekki)
-- Eye care hub (Silmäsairaala, Specsavers, Silmäasema, Nissen, Sellon Katse)
-- Elixia gym, Life health food store
-- Physiotherapy (Liikuntafysio)
-- R-Kioski, multiple supermarkets
+### 🏥 Hub 1: Sello/Kauppakeskus Galleria (Leppävaarankatu)
+| Service | Name |
+|---------|------|
+| Pharmacy | Sellon Apteekki, Sanitum Apteekki |
+| Eye Care | Silmäsairaala Espoo, Specsavers, Silmäasema, Nissen |
+| Gym | Elixia (indoor pool + sauna) |
+| Health Food | Life, K-Citymarket |
+| Supermarkets | Prisma, Lidl, K-Citymarket |
 
-### 🟢 Cluster 2: Ruusutorppa / Hevosenkenkä 3
-Leppävaara's private-health powerhouse (200 m radius):
-- Terveystalo Leppävaara (GP)
-- Mehiläinen (GP, labs, X-ray)
-- Apteekki Elixir (pharmacy)
-- Terveystalo Dental
+### 🏥 Hub 2: Hevosenkenkä 3 (Ruusutorppa)
+| Service | Name |
+|---------|------|
+| GP Clinic | Terveystalo, Mehiläinen |
+| Pharmacy | Apteekki Elixir |
+| Dental | Terveystalo Hammaslääkäripalvelut |
 
-### 🔴 Cluster 3: Vallikallio / Konstaapelinkatu
-Public-sector hub:
-- Leppävaaran terveysasema (public GP)
-- Leppävaaran neuvola (maternity/child health)
-- Fressi gym
-- K-Supermarket (Vallikallio)
+### 🏥 Hub 3: Vallikallio (Konstaapelinkatu)
+| Service | Name |
+|---------|------|
+| Health Centre | Leppävaaran terveysasema, Leppävaaran neuvola |
+| Gym | Fressi Leppävaara |
+| Health Food | K-Supermarket |
 
 ---
 
 ## Summary Tables
 
-### All Health Businesses — Quick Reference
+### All Pharmacies
+| Name | Address | Phone | Hours |
+|------|---------|-------|-------|
+| Sellon Apteekki | Leppävaarankatu 3-9 (Sello), L2 | +358 9 849 2550 | Mo-Fr 8:30–21, Sa 9–19, Su 11–18 |
+| Sanitum Apteekki | Leppävaarankatu 3-9 (Sello) | — | Mo-Fr 8:00–20, Sa 10–19, Su 11–18 |
+| Apteekki Elixir | Hevosenkenkä 3, Ruusutorppa | +358 10 322 8980 | Mo-Fr 8:30–21, Sa 10–18, Su 12–18 |
+| Pitäjänmäen apteekki | Ajomiehentie 1 (Ristikko) | 09 557 565 | Mo-Fr 9–19, Sa 10–16 |
 
-| # | Business | Category | Address |
-|---|----------|----------|---------|
-| 1 | Leppävaaran terveysasema | Public Health Centre | Konstaapelinkatu 2, Vallikallio |
-| 2 | Perkkaan neuvola | Maternity/Child Health | Upseerinkatu 3, Perkkaa |
-| 3 | Leppävaaran neuvola | Maternity/Child Health | Konstaapelinkatu 2, Vallikallio |
-| 4 | Kilonpuiston neuvola | Maternity/Child Health | Inkoonkuja 15, Kilo |
-| 5 | Terveystalo Leppävaara | Private GP | Bertel Jungin aukio 7, Ruusutorppa |
-| 6 | Mehiläinen Leppävaara | Private Medical | Hevosenkenkä 3, Ruusutorppa |
-| 7 | Terveystalo Hammaslääkäripalvelut | Dental | Hevosenkenkä 3, Ruusutorppa |
-| 8 | Ruusulinnan hammashoitola | Dental | Huvilinnantie 4, Etelä-Leppävaara |
-| 9 | Kilon Hammaslääkärit | Dental | Lansantie 23, Kilo |
-| 10 | Sellon Apteekki | Pharmacy | Leppävaarankatu 3-9 (Sello) |
-| 11 | Sanitum Apteekki | Pharmacy | Leppävaarankatu 3-9 (Sello) |
-| 12 | Apteekki Elixir | Pharmacy | Hevosenkenkä 3, Ruusutorppa |
-| 13 | Pitäjänmäen apteekki | Pharmacy | Ajomiehentie 1 (Ristikko) |
-| 14 | Silmäsairaala Espoo | Eye Clinic | Leppävaarankatu 5B (Sello) |
-| 15 | Specsavers | Optician | Leppävaarankatu 3-9 (Sello) |
-| 16 | Silmäasema | Eye Care | Leppävaarankatu 3-9 (Sello) |
-| 17 | Nissen | Optician | Leppävaarankatu 3-9 (Sello) |
-| 18 | Sellon Katse | Optician | Leppävaarankatu, Sello |
-| 19 | Liikuntafysio | Physiotherapy | Leppävaarankatu 9C, Sello |
+### All Swimming Pools
+| Name | Type | Distance from center |
+|------|------|---------------------|
+| Leppävaaran uimahalli (indoor) | 25–50 m lane pool | 0 km (on-site) |
+| Leppävaaran uimahalli (maauimala) | Outdoor beach pool | 0 km (on-site) |
+| Keski-Espoon uimahalli | Indoor pool | ~2 km |
+| Tapiolan uimahalli | Indoor pool | ~2 km |
 
-### All Fitness Facilities — Quick Reference
+### All Gyms & Fitness
+| Name | Type | Address |
+|------|------|---------|
+| Elixia Leppävaara | Full gym + pool + sauna | Sello, Leppävaarankatu 3-9 |
+| Fressi Leppävaara | Gym & fitness | Esikunnankatu 2, Vallikallio |
+| Liikuntastudio Luhtavilla | Yoga, pilates | Timpurinkuja 3, Vallikallio |
 
-| # | Facility | Type | Address |
-|---|----------|------|---------|
-| 1 | Elixia Leppävaara | Gym + Pool + Sauna | Leppävaarankatu 3-9 (Sello) |
-| 2 | Fressi Leppävaara | Gym | Esikunnankatu 2, Vallikallio |
-| 3 | Liikuntastudio Luhtavilla | Yoga/Pilates | Timpurinkuja 3, Vallikallio |
-| 4 | Leppävaaran urheiluhalli | Sports Hall | Gransinmäki |
-| 5 | Malminkartanon harrastushalli | Recreation Hall | Ruosilantie 18 |
-| 6 | Leppävaaran uimahalli | Indoor Pool | Veräjäpellonkatu 15, Gransinmäki |
-| 7 | Leppävaaran uimahalli (maauimala) | Outdoor Pool | Veräjäpellonkatu 15, Gransinmäki |
-| 8 | Säterinniitty tekojääkenttä | Ice Rink | Säterinpuistontie 5 |
-| 9 | Seikkailupuisto Huippu | Climbing Park | Kilonkrouvinmäki |
-| 10 | BK Konala | Indoor Bouldering | Ruosilantie 1 |
-| 11 | KiipeilyAreena Ristikko | Climbing | Ajomiehentie 1 |
-| 12 | Loop Martial Arts | Martial Arts | Takatie 7A-B |
-| 13 | Taekwondourheilijat 2011 | Taekwondo | Ristipellontie 14 |
-| 14 | Kilon talli | Equestrian | Kilonkartanontie 4 |
-| 15 | Leppävaaran Ratsastuskoulu | Riding School | Maneesipolku 4 |
-| 16 | Golf Park Leppävaara | Driving Range | Säterinpuistontie 1 |
+### All Sports Halls
+| Name | Type | Address |
+|------|------|---------|
+| Leppävaaran urheiluhalli | Municipal sports hall | Gransinmäki, Pohjois-Leppävaara |
+| Malminkartanon harrastushalli | Recreation hall | Ruosilantie 18, Malminkartano |
 
-### All Health Food Stores — Quick Reference
-
-| # | Store | Type | Address |
-|---|-------|------|---------|
-| 1 | Life | Health Food & Organics | Leppävaarankatu 3-9 (Sello) |
-| 2 | K-Citymarket (Sello) | Supermarket (Organic) | Leppävaarankatu 3-9 (Sello) |
-| 3 | K-Supermarket (Vallikallio) | Supermarket (Organic) | Konstaapelinkatu 4 |
-| 4 | K-Supermarket (Galleria) | Supermarket (Organic) | Konstaapelinkatu 4 |
-| 5 | Prisma (Sello) | Supermarket | Leppävaarankatu 5 |
-| 6 | Alepa Malminkartano | Organic Supermarket | Malminkartanonaukio 2 |
+### All Health Centers & Clinics
+| Name | Type | Address |
+|------|------|---------|
+| Leppävaaran terveysasema | Public health centre | Konstaapelinkatu 2, Vallikallio |
+| Terveystalo Leppävaara | Private GP | Bertel Jungin aukio 7, Ruusutorppa |
+| Mehiläinen Espoo Leppävaara | Private GP/clinic | Hevosenkenkä 3, Ruusutorppa |
+| Perkkaan neuvola | Maternity/child health | Upseerinkatu 3, Perkkaa |
+| Leppävaaran neuvola | Maternity/child health | Konstaapelinkatu 2, Vallikallio |
+| Kilonpuiston neuvola | Maternity/child health | Inkoonkuja 15, Kilo |
 
 ---
 
 ## Notes & Disclaimer
 
-- **Data Source:** All entries are sourced from [OpenStreetMap (OSM)](https://www.openstreetmap.org/) and verified via geocoding. While OSM data is community-maintained, some businesses may have changed their details (hours, contact info) since the last OSM edit.
-- **Coverage:** This guide covers Leppävaara and the surrounding sub-districts within ~3 km. More distant facilities in Tapiola, Leppälä, or Espoon keskus are marked with `~2 km` and may require a bus or car trip.
-- **Accuracy:** Phone numbers and contact details are pulled from OSM where available. Some venues may not have public contact info listed.
-- **Contributions:** To add or correct entries, please update the [OpenStreetMap](https://www.openstreetmap.org/) data directly — this guide reads from OSM.
-- **Not Included:** Hairdressers, beauty salons, and general convenience stores (Alepa, K-Market, R-Kioski, etc.) are tracked separately in [Health-Adjacent Shops](#health-adjacent-shops) but are not health/fitness businesses per se.
+- 📍 All coordinates are sourced from **OpenStreetMap (OSM)** and cross-verified with geocoding.
+- 🕐 Opening hours are approximate — always check the venue's website before visiting.
+- 💰 Prices and fees are not listed; contact venues directly.
+- 📞 Phone numbers are from public OSM records; some may be outdated.
+- 🗺️ This guide covers Leppävaara center (~3 km radius). Larger neighboring services (e.g., **Töölö Hospital**, **Jorvi Hospital** in Espoo) are accessible by bus/transit.
+- 🤝 **Contributions welcome!** Found a missing venue or inaccurate info? Submit a PR or open an issue. This is a community-driven resource.
+- ℹ️ For emergencies, always dial **112**.
 
 ---
 
-> 📍 **Leppävaara Center:** 60.220°N, 24.814°E | **Postal Codes:** 02600, 02610, 02620, 02630, 02650 | **Municipality:** Espoo, Uusimaa, Finland
-
-*Last updated based on OSM data. Generated from community-sourced mapping.*
+*Guide compiled from OpenStreetMap data, local OSM contributors, and community knowledge. Last updated 2025.*
